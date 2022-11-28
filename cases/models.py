@@ -4,9 +4,9 @@ from django.db import models
 class Judge(models.Model):
     lastName = models.CharField( 'Judge Last Name', max_length=32, null=True, blank=True)
     firstName =  models.CharField('Judge First Name', max_length=260, null=True, blank=True)
+    DOB = models.DateField(null=True, blank=True)
     age = models.IntegerField('Judge Age')
     gender = models.CharField('Judge Gender', max_length=1)
-    region = models.CharField('Judge Region', max_length=64, null=True, blank=True)
     email = models.EmailField('Judge Email Address', max_length=64, blank=True)
     #totalCases = models.IntegerField('Total Number Of Cases Judge Has Presided Over')
 
@@ -21,17 +21,29 @@ class JudgeGroup(models.Model):
         return ','.join([c.name for c in self.members.all()])
 
 class Defendant(models.Model):
-    DIN = models.CharField('Departmental Identification Number', max_length=7, default='0000000')
     firstName = models.CharField('Defendant First Name', max_length=32, null=True, blank=True)
     lastName = models.CharField('Defendant Last Name', max_length=32, null=True, blank=True)
+    DOB = models.DateField(null=True, blank = True)
     age = models.IntegerField('Defendant Age')
     gender = models.CharField('Defendant Gender', max_length=1)
-    region = models.CharField('Defendant Region', max_length=32, null=True, blank=True)
     email = models.EmailField('Defendant Email Address', max_length=64, blank=True)
-    #totalConvictions = models.IntegerField('Total Number Of Convictions Defendant Has Had')
 
     def __str__(self):
         return str(self.name)
+
+
+class Convict(models.Model):
+    DIN = models.CharField('Departmental Identification Number', max_length=7)
+    firstName = models.CharField('First Name', max_length=32)
+    lastName = models.CharField('Last Name', max_length=32)
+    DOB = models.DateField()
+    Age = models.IntegerField('Age')
+    gender = models.CharField(max_length=1)
+    race = models.CharField(max_length = 32)
+    #totalConvictions = models.IntegerField('Total Number Of Convictions Defendant Has Had')
+    def __str__(self):
+        return str(self.name)
+
 
 class DefendantGroup(models.Model):
     name = models.CharField('Defendant Group Name', max_length=128)
@@ -57,7 +69,8 @@ class Case(models.Model):
     bail = models.IntegerField('Bail Amount In Dollars', blank=True, default=0)
     defendantGroup = models.ForeignKey(DefendantGroup, blank= True, null= True, on_delete=models.SET_NULL)
     judgeGroup = models.ForeignKey(JudgeGroup, blank= True, null= True, on_delete=models.SET_NULL)
-    
+    status = models.CharField('Case Status', max_length=16, null = True, blank = True)
+
     def get_charges(self):
         return ','.join([c.charge for c in self.charge.all()])
     def __str__(self) -> str:

@@ -10,7 +10,7 @@ def defendant_lookup(request):
     if request.method == 'POST':
         form = DefendantForm(request.POST)
         if form.is_valid():
-            defendant = Defendant.objects.filter(name = request.POST['name'])
+            defendant = Defendant.objects.filter(firstName = request.POST['firstName'], gender = request.POST['gender'])
             submitted = True
             return render(request, 'defendantLookup.html', {'form':form, 'submitted':submitted, 'defendant':defendant})
             

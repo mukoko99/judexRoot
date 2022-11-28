@@ -5,15 +5,21 @@ import re
 from django import forms 
 from django.forms import ModelForm
 from .models import Case, Defendant, Judge
-
+options = (
+    ('1', 'OPEN'),
+    ('2', 'INACTIVE'),
+    ('3', 'CLOSED'),
+    ('4', 'REOPENED',)
+)
 class CaseForm(forms.Form):
-    firstName = forms.CharField(label='First Name')
+    status = forms.MultipleChoiceField(choices=options)
     class Meta:
         model = Case
         fields = '__all__'
 
 class DefendantForm(forms.Form):
-    name = forms.CharField(label='Last Name', required=True, max_length=32)
+    firstName = forms.CharField(label='First Name', max_length=32, required=False)
+    lastName = forms.CharField(label='Last Name', required=True, max_length=32)
     DIN = forms.CharField(label='DIN', required=False, max_length=7)
     age = forms.IntegerField(label='Age', required=False)
     gender = forms.CharField(label='Gender', max_length=1)
