@@ -2,12 +2,13 @@ from django.db import models
 
 # Create your models here.
 class Judge(models.Model):
-    name =  models.CharField('Judge Name', max_length=260)
+    lastName = models.CharField( 'Judge Last Name', max_length=32, null=True, blank=True)
+    firstName =  models.CharField('Judge First Name', max_length=260, null=True, blank=True)
     age = models.IntegerField('Judge Age')
     gender = models.CharField('Judge Gender', max_length=1)
-    region = models.CharField('Judge Region', max_length=120, null=True, blank=True)
-    email = models.EmailField('Judge Email Address', max_length=260, blank=True)
-    totalCases = models.IntegerField('Total Number Of Cases Judge Has Presided Over')
+    region = models.CharField('Judge Region', max_length=64, null=True, blank=True)
+    email = models.EmailField('Judge Email Address', max_length=64, blank=True)
+    #totalCases = models.IntegerField('Total Number Of Cases Judge Has Presided Over')
 
     def __str__(self):
         return str(self.name)
@@ -20,11 +21,12 @@ class JudgeGroup(models.Model):
         return ','.join([c.name for c in self.members.all()])
 
 class Defendant(models.Model):
-    #DIN = models.CharField('Departmental Identification Number', max_length=7)
-    name = models.CharField('Defendant First Name', max_length=32)
+    DIN = models.CharField('Departmental Identification Number', max_length=7, default='0000000')
+    firstName = models.CharField('Defendant First Name', max_length=32, null=True, blank=True)
+    lastName = models.CharField('Defendant Last Name', max_length=32, null=True, blank=True)
     age = models.IntegerField('Defendant Age')
     gender = models.CharField('Defendant Gender', max_length=1)
-    region = models.CharField('Defendant Region', max_length=32)
+    region = models.CharField('Defendant Region', max_length=32, null=True, blank=True)
     email = models.EmailField('Defendant Email Address', max_length=64, blank=True)
     #totalConvictions = models.IntegerField('Total Number Of Convictions Defendant Has Had')
 
