@@ -1,0 +1,22 @@
+{%extends 'base.html' %}
+
+{%block title%}Judge Lookup{%endblock title%}
+{%block content%}
+{%if submitted%}
+    <ul>{%for d in defendant%}
+        <li>{{d}}</li>
+        {%endfor%}
+    </ul>
+{%else%}
+    <form action="" method="POST">
+        <table>
+            {{form.as_table}}
+            <tr>
+                <td>&nbsp;</td>
+                <td><input type="submit" value="Submit"></td>
+            </tr>
+        </table>
+        {% csrf_token %}
+    </form>
+{%endif%}
+{%endblock content%}

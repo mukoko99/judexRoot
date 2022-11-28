@@ -1,0 +1,15 @@
+#infoTable{
+    position: relative;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 50%;
+    width: 100%;
+    padding: 50px;
+}
+#defendantPicture{
+    height: 250px;
+    width:  250px;
+    border-radius: 50%;
+}

@@ -1,0 +1,26 @@
+{%extends 'base.html' %}
+
+{%block title%} Case Lookup {%endblock title%}
+
+{%block content%}
+<h1>Input Case Details</h1>
+
+{% if submitted %}
+    <p>This should be the case details you are looking for:
+        <ul>    
+            <li>{{result}}</li>
+        </ul>
+    </p>
+{% else %}
+    <form action="" method="POST" novalidate>
+        <table>
+            {{form.as_table}}
+            <tr>
+                <td>&nbsp;</td>
+                <td><input type="submit" value="Submit"></td>
+            </tr>
+        </table>
+        {% csrf_token %}
+    </form>
+{% endif %}
+{% endblock content %}
