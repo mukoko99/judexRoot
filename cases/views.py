@@ -28,6 +28,9 @@ def case_lookup(request):
             result = Case.objects.filter(judge = judgeVal, defendant = defendantVal)
             submitted = True
             return render(request, 'caseLookup.html', {'result': result, 'form': form, 'submitted': submitted})
+        else:
+            submitted = False
+            return render(request, 'caseLookup.html', {'form':form,'submitted': submitted})
     else:
         form = CaseForm()
         return render(request, 'caseLookup.html', {'form':form, 'submitted': submitted})
