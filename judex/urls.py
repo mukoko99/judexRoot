@@ -20,7 +20,7 @@ from cases import views
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('',views.index, name='Home'),
-    #path('case_lookup/', views.case_lookup, name='Case Lookup'),
+    path('case_lookup/', views.case_lookup, name='Case Lookup'),
     path('defendant_lookup/', views.defendant_lookup, name='Defendant Lookup'),
     #path('judge_lookup/', views.judge_lookup, name='Judge Lookup')
 ]

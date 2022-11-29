@@ -11,8 +11,8 @@ options = (
     ('3', 'CLOSED'),
     ('4', 'REOPENED',)
 )
-class CaseForm(forms.Form):
-    status = forms.MultipleChoiceField(choices=options)
+class CaseForm(ModelForm):
+    status = forms.MultipleChoiceField(choices=options, widget=forms.Select)
     class Meta:
         model = Case
         fields = '__all__'
