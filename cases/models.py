@@ -34,10 +34,13 @@ class Convict(models.Model):
     gender = models.CharField(max_length=1)
     race = models.CharField(max_length = 32)
 <<<<<<< HEAD
+<<<<<<< HEAD
     status = models.CharField(max_length=32)
     facility = models.ForeignKey(Prison, on_delete=models.SET_NULL, null=True, blank=True)
     #charge = models.ManyToManyField(Charge)
 =======
+=======
+>>>>>>> parent of 46ffde1 (Updated for Optimal Functionality)
 
 class Defendant(models.Model):
     firstName = models.CharField('Defendant First Name', max_length=32, null=True, blank=True)
@@ -47,6 +50,9 @@ class Defendant(models.Model):
     race = models.CharField('Defendant Race', max_length=260)
     gender = models.CharField('Defendant Gender', max_length=1)
     email = models.EmailField('Defendant Email Address', max_length=64, blank=True)
+<<<<<<< HEAD
+>>>>>>> parent of 46ffde1 (Updated for Optimal Functionality)
+=======
 >>>>>>> parent of 46ffde1 (Updated for Optimal Functionality)
 
     def __str__(self):
