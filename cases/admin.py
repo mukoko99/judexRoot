@@ -1,5 +1,5 @@
 from django.contrib import admin
-from .models import Judge, DefendantGroup, Defendant, Case, Charge, JudgeGroup, Convict, Prison
+from .models import Judge, DefendantGroup, Defendant, Case, Charge, JudgeGroup, Convict
 
 # Register your models here.
 class CaseAdmin(admin.ModelAdmin):
@@ -7,5 +7,5 @@ class CaseAdmin(admin.ModelAdmin):
     ordering = ('defendant', 'judge')
     search_fields =  ('defendant', 'judge', 'get_charges()')
 
-admin.site.register([Judge, JudgeGroup, Defendant, DefendantGroup, Charge, Convict, Prison])
+admin.site.register([Judge, JudgeGroup, Defendant, DefendantGroup, Charge, Convict])
 admin.site.register(Case, CaseAdmin)

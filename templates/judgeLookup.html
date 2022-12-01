@@ -3,7 +3,10 @@
 {%block title%}Judge Lookup{%endblock title%}
 {%block content%}
 {%if submitted%}
-     {{judge}}
+    <ul>{%for d in defendant%}
+        <li>{{d}}</li>
+        {%endfor%}
+    </ul>
 {%else%}
     <form action="" method="POST">
         <table>
