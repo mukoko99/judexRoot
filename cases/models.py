@@ -84,6 +84,7 @@ class Convict(models.Model):
     race = models.CharField(max_length = 32)
     status = models.CharField(max_length=32)
     facility = models.ForeignKey(Prison, on_delete=models.SET_NULL, null=True, blank=True)
+    charges = models.ManyToManyField(Charge)
 
     def __str__(self):
         return str(self.lastName + ', ' + self.firstName)
