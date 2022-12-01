@@ -8,11 +8,12 @@ class Charge(models.Model):
     classes = models.CharField('Crime Class', max_length=64)
 
     def __str__(self) -> str:
-        return str(self.charge)
+        return str(self.charge+ ', '+self.classes)
 
 class Defendant(models.Model):
     firstName = models.CharField('Defendant First Name', max_length=32, null=True, blank=True)
     lastName = models.CharField('Defendant Last Name', max_length=32, null=True, blank=True)
+    middleName = models.CharField('Middle Name', max_length=32, default=' ')
     DOB = models.DateField(null=True, blank = True)
     age = models.IntegerField('Defendant Age')
     race = models.CharField('Defendant Race', max_length=260)
@@ -21,7 +22,7 @@ class Defendant(models.Model):
     #totalConvictions = models.IntegerField('Total Number Of Convictions Defendant Has Had')
     
     def __str__(self):
-        return str(self.lastName + ', ' + self.firstName)
+        return str(self.lastName + ', ' + self.firstName + ' ' + self.middleName)
     
 class DefendantGroup(models.Model):
     name = models.CharField('Defendant Group Name', max_length=128)
@@ -33,6 +34,7 @@ class DefendantGroup(models.Model):
 class Judge(models.Model):
     lastName = models.CharField( 'Judge Last Name', max_length=32, null=True, blank=True)
     firstName =  models.CharField('Judge First Name', max_length=260, null=True, blank=True)
+    middleName = models.CharField('Middle Name', max_length=32, default=' ')
     DOB = models.DateField(null=True, blank=True)
     age = models.IntegerField('Judge Age')
     gender = models.CharField('Judge Gender', max_length=1)
@@ -40,7 +42,7 @@ class Judge(models.Model):
     #totalCases = models.IntegerField('Total Number Of Cases Judge Has Presided Over')
 
     def __str__(self):
-        return str(self.lastName + ', ' + self.firstName)
+        return str(self.lastName + ', ' + self.firstName + ' ' + self.middleName)
 
 class JudgeGroup(models.Model):
     name = models.CharField('Defendant Group Name', max_length=128)
@@ -78,6 +80,7 @@ class Convict(models.Model):
     DIN = models.CharField('Departmental Identification Number', max_length=7)
     firstName = models.CharField('First Name', max_length=32)
     lastName = models.CharField('Last Name', max_length=32)
+    middleName = models.CharField('Middle Name', max_length=32, default=' ')    
     DOB = models.DateField()
     Age = models.IntegerField('Age')
     gender = models.CharField(max_length=1)
@@ -87,7 +90,7 @@ class Convict(models.Model):
     charges = models.ManyToManyField(Charge)
 
     def __str__(self):
-        return str(self.lastName + ', ' + self.firstName)
+        return str(self.lastName + ', ' + self.firstName + ' ' + self.middleName)
 
 # def get_defendants(self):
 # return ' ,'.join([c.members for c in self.defendantGroup])
