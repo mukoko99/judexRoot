@@ -34,3 +34,18 @@ def case_lookup(request):
     else:
         form = CaseForm()
         return render(request, 'caseLookup.html', {'form':form, 'submitted': submitted})
+
+def judge_lookup(request):
+    submitted = False
+    if request.method == 'POST':
+        form = JudgeForm(request.POST)
+        if form.is_valid():
+            judge = Judge.objects.get(lastName = request.POST['lastName'])
+            submitted = True
+            return render(request, 'judgeLookup.html', {'submitted':submitted, 'judge':judge})
+        else:
+            submitted = False
+            return render(request, 'judgeLookup.html', {'submitted':submitted})
+    else:
+        form = JudgeForm()
+        return render(request, 'judgeLookup.html', {'form':form, 'submitted':submitted})
