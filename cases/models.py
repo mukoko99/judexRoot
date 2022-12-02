@@ -78,13 +78,7 @@ class Prison(models.Model):
 
 class Convict(models.Model):
     DIN = models.CharField('Departmental Identification Number', max_length=7)
-    firstName = models.CharField('First Name', max_length=32)
-    lastName = models.CharField('Last Name', max_length=32)
-    middleName = models.CharField('Middle Name', max_length=32, default=' ')    
-    DOB = models.DateField()
-    Age = models.IntegerField('Age')
-    gender = models.CharField(max_length=1)
-    race = models.CharField(max_length = 32)
+    defendant = models.ForeignKey(Defendant, on_delete=models.CASCADE, blank=True, null=True)
     status = models.CharField(max_length=32)
     facility = models.ForeignKey(Prison, on_delete=models.SET_NULL, null=True, blank=True)
     charges = models.ManyToManyField(Charge)
