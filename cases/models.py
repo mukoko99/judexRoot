@@ -13,7 +13,7 @@ class Charge(models.Model):
 class Defendant(models.Model):
     firstName = models.CharField('Defendant First Name', max_length=32, null=True, blank=True)
     lastName = models.CharField('Defendant Last Name', max_length=32, null=True, blank=True)
-    middleName = models.CharField('Middle Name', max_length=32, default=' ')
+    middleName = models.CharField('Middle Initial', max_length=32, default= ' ', blank=True)
     DOB = models.DateField(null=True, blank = True)
     age = models.IntegerField('Defendant Age')
     race = models.CharField('Defendant Race', max_length=260)
@@ -22,7 +22,7 @@ class Defendant(models.Model):
     #totalConvictions = models.IntegerField('Total Number Of Convictions Defendant Has Had')
     
     def __str__(self):
-        return str(self.lastName + ', ' + self.firstName + ' ' + self.middleName)
+        return str(self.lastName + ', ' + self.firstName + ' ' + self.middleName + ', ' + str(self.DOB))
     
 class DefendantGroup(models.Model):
     name = models.CharField('Defendant Group Name', max_length=128)
@@ -74,17 +74,11 @@ class Prison(models.Model):
     location = PlainLocationField(based_fields= ('city'), zoom=7)
 
     def __str__(self):
-        return str(self.name)
+        return str(self.name + ', ' + self.city)
 
-class Convict(models.Model):
+class Conviction(models.Model):
     DIN = models.CharField('Departmental Identification Number', max_length=7)
-    firstName = models.CharField('First Name', max_length=32)
-    lastName = models.CharField('Last Name', max_length=32)
-    middleName = models.CharField('Middle Name', max_length=32, default=' ')    
-    DOB = models.DateField()
-    Age = models.IntegerField('Age')
-    gender = models.CharField(max_length=1)
-    race = models.CharField(max_length = 32)
+    defendant = models.ForeignKey(Defendant, on_delete=models.CASCADE)
     status = models.CharField(max_length=32)
     facility = models.ForeignKey(Prison, on_delete=models.SET_NULL, null=True, blank=True)
     charges = models.ManyToManyField(Charge)
@@ -92,7 +86,7 @@ class Convict(models.Model):
     sentenceStart = models.DateField("Date Sentencing Starts", blank=True, null=True)
     sentenceEnd = models.DateField("Release Date", blank=True, null = True)
     def __str__(self):
-        return str(self.lastName + ', ' + self.firstName + ' ' + self.middleName)
+        return str(self.defendant)
 
 # def get_defendants(self):
 # return ' ,'.join([c.members for c in self.defendantGroup])
