@@ -7,5 +7,10 @@ class CaseAdmin(admin.ModelAdmin):
     ordering = ('defendant', 'judge')
     search_fields =  ('defendant', 'judge', 'get_charges()')
 
-admin.site.register([Judge, JudgeGroup, Defendant, DefendantGroup, Charge, Convict, Prison])
+class ConvictAdmin(admin.ModelAdmin):
+    list_display = ('firstName', 'lastName', 'middleName', 'DIN', 'facility', 'status')
+    search_fields = ('DIN', 'facility', 'status', 'lastName', 'middleName', 'firstName', 'age', 'gender', 'race')
+
+admin.site.register([Judge, JudgeGroup, Defendant, DefendantGroup, Charge, Prison])
 admin.site.register(Case, CaseAdmin)
+admin.site.register(Convict, ConvictAdmin)
