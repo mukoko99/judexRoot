@@ -13,4 +13,3 @@ class ConvictAdmin(admin.ModelAdmin):
 
 admin.site.register([Judge, JudgeGroup, Defendant, DefendantGroup, Charge, Prison])
 admin.site.register(Case, CaseAdmin)
-admin.site.register(Convict, ConvictAdmin)

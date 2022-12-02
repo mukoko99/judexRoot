@@ -85,7 +85,6 @@ class Convict(models.Model):
     incarcerationEnd = models.DateField('Date of Imprisonment', blank=True, null=True)
     sentenceStart = models.DateField("Date Sentencing Starts", blank=True, null=True)
     sentenceEnd = models.DateField("Release Date", blank=True, null = True)
-
     def __str__(self):
         return str(self.lastName + ', ' + self.firstName + ' ' + self.middleName)
 
