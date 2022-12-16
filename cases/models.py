@@ -15,9 +15,9 @@ class Defendant(models.Model):
     lastName = models.CharField('Defendant Last Name', max_length=32, null=True, blank=True)
     middleName = models.CharField('Middle Initial', max_length=32, default= ' ', blank=True)
     DOB = models.DateField(null=True, blank = True)
-    age = models.IntegerField('Defendant Age')
+    age = models.IntegerField('Defendant Age', blank=True, null=True)
     race = models.CharField('Defendant Race', max_length=260)
-    gender = models.CharField('Defendant Gender', max_length=1)
+    #gender = models.CharField('Defendant Gender', max_length=1)
     email = models.EmailField('Defendant Email Address', max_length=64, blank=True)
     #totalConvictions = models.IntegerField('Total Number Of Convictions Defendant Has Had')
     
@@ -27,7 +27,7 @@ class Defendant(models.Model):
 class DefendantGroup(models.Model):
     name = models.CharField('Defendant Group Name', max_length=128)
     members = models.ManyToManyField(Defendant)
-    region = models.CharField('Defendant Group Region', max_length=120, null=True, blank=True)
+    county = models.CharField('Defendant Group County', max_length=120, null=True, blank=True)
     def __str__(self):
         return ','.join([c.name for c in self.members.all()])
 
@@ -47,14 +47,14 @@ class Judge(models.Model):
 class JudgeGroup(models.Model):
     name = models.CharField('Defendant Group Name', max_length=128)
     members = models.ManyToManyField(Judge)
-    region = models.CharField('Judge Group Region', max_length=120, null=True, blank=True)
+    county = models.CharField('Judge Group County', max_length=120, null=True, blank=True)
     def __str__(self):
         return ','.join([c.name for c in self.members.all()])
 
 class Case(models.Model):
     defendant = models.ForeignKey(Defendant, on_delete=models.SET_NULL, null=True, blank=True)
     judge = models.ForeignKey(Judge, on_delete=models.SET_NULL, null=True, blank=True)
-    region = models.CharField('Case Region', max_length=120, null=True, blank=True)
+    county = models.CharField('Case County', max_length=120, null=True, blank=True)
     jury = models.CharField(max_length=1, default='F', blank=True)
     charge = models.ManyToManyField(Charge)
     sentence = models.IntegerField('Sentence In Years', blank=True, default=0)
@@ -70,11 +70,12 @@ class Case(models.Model):
 
 class Prison(models.Model):
     name = models.CharField('Prison Name', max_length=32)
-    city = models.CharField(max_length=64)
+    county = models.CharField(max_length=64)
     location = PlainLocationField(based_fields= ('city'), zoom=7)
+    security = models.CharField("Security", max_length=50, default='N.A')
 
     def __str__(self):
-        return str(self.name + ', ' + self.city)
+        return str(self.name + ', ' + self.county)
 
 class Conviction(models.Model):
     DIN = models.CharField('Departmental Identification Number', max_length=7)
