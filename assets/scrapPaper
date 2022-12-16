@@ -1,0 +1,2416 @@
+<!-- <!-- <table class="table table-borderless">!  -->
+        <!--!-->
+    </table>  -->
+
+
+    <table class="table table-borderless"><!--!-->
+        <!--!--><thead>
+            <tr class="text-left">
+                <th scope="col">DIN</th>
+                <th scope="col">Name</th>
+                <th scope="col">Birth Date</th>
+                <th scope="col">Status</th>
+                <th scope="col">Facility</th>
+                <th scope="col">Race/Ethnicity</th>
+            </tr>
+        </thead>
+        <tbody><!--!-->
+                    <tr><!--!-->
+                        <td class="text-left"><!--!-->
+                            <a href="">91A9815</a><!--!-->
+                        </td><!--!-->
+                        <td class="text-left">SIMMONS, ALFRED</td><!--!-->
+                        <td class="text-left">07/24/1963</td><!--!-->
+                        <td class="text-left">RELEASED</td><!--!-->
+                        <td class="text-left">GOUVERNEUR</td><!--!-->
+                        <td class="text-left">BLACK</td><!--!-->
+                    </tr><!--!-->
+                    <tr><!--!-->
+                        <td class="text-left"><!--!-->
+                            <a href="">99A4010</a><!--!-->
+                        </td><!--!-->
+                        <td class="text-left">SIMMONS, ALFRED</td><!--!-->
+                        <td class="text-left">03/10/1970</td><!--!-->
+                        <td class="text-left">RELEASED</td><!--!-->
+                        <td class="text-left">WALLKILL</td><!--!-->
+                        <td class="text-left">BLACK</td><!--!-->
+                    </tr><!--!-->
+                    <tr><!--!-->
+                        <td class="text-left"><!--!-->
+                            <a href="">93R9503</a><!--!-->
+                        </td><!--!-->
+                        <td class="text-left">SIMMONS, ALFRED</td><!--!-->
+                        <td class="text-left">08/01/1971</td><!--!-->
+                        <td class="text-left">RELEASED</td><!--!-->
+                        <td class="text-left">ARTHURKILL</td><!--!-->
+                        <td class="text-left">BLACK</td><!--!-->
+                    </tr><!--!-->
+                    <tr><!--!-->
+                        <td class="text-left"><!--!-->
+                            <a href="">04R0874</a><!--!-->
+                        </td><!--!-->
+                        <td class="text-left">SIMMONS, ALFRED L</td><!--!-->
+                        <td class="text-left">03/20/1967</td><!--!-->
+                        <td class="text-left">RELEASED</td><!--!-->
+                        <td class="text-left">QUEENSBORO</td><!--!-->
+                        <td class="text-left">BLACK</td><!--!-->
+                    </tr><!--!-->
+                    <tr><!--!-->
+                        <td class="text-left"><!--!-->
+                            <a href="">75A1401</a><!--!-->
+                        </td><!--!-->
+                        <td class="text-left">SIMMONS, ALONZO</td><!--!-->
+                        <td class="text-left">02/14/1935</td><!--!-->
+                        <td class="text-left">DISCHARGED</td><!--!-->
+                        <td class="text-left"></td><!--!-->
+                        <td class="text-left">BLACK</td><!--!-->
+                    </tr><!--!-->
+                    <tr><!--!-->
+                        <td class="text-left"><!--!-->
+                            <a href="">11R0274</a><!--!-->
+                        </td><!--!-->
+                        <td class="text-left">SIMMONS, ALONZO</td><!--!-->
+                        <td class="text-left">02/26/1962</td><!--!-->
+                        <td class="text-left">RELEASED</td><!--!-->
+                        <td class="text-left">MOHAWK</td><!--!-->
+                        <td class="text-left">BLACK</td><!--!-->
+                    </tr><!--!-->
+                    <tr><!--!-->
+                        <td class="text-left"><!--!-->
+                            <a href="">86A6250</a><!--!-->
+                        </td><!--!-->
+                        <td class="text-left">SIMMONS, ALONZO</td><!--!-->
+                        <td class="text-left">02/26/1962</td><!--!-->
+                        <td class="text-left">RELEASED</td><!--!-->
+                        <td class="text-left">FULTON</td><!--!-->
+                        <td class="text-left">BLACK</td><!--!-->
+                    </tr><!--!-->
+                    <tr><!--!-->
+                        <td class="text-left"><!--!-->
+                            <a href="">09A3976</a><!--!-->
+                        </td><!--!-->
+                        <td class="text-left">SIMMONS, ALPHONSO</td><!--!-->
+                        <td class="text-left">09/11/1963</td><!--!-->
+                        <td class="text-left">DISCHARGED</td><!--!-->
+                        <td class="text-left">GOWANDA</td><!--!-->
+                        <td class="text-left">BLACK</td><!--!-->
+                    </tr><!--!-->
+                    <tr><!--!-->
+                        <td class="text-left"><!--!-->
+                            <a href="">89A4048</a><!--!-->
+                        </td><!--!-->
+                        <td class="text-left">SIMMONS, ALPHONSO</td><!--!-->
+                        <td class="text-left">09/11/1963</td><!--!-->
+                        <td class="text-left">RELEASED</td><!--!-->
+                        <td class="text-left">QUEENSBORO</td><!--!-->
+                        <td class="text-left">BLACK</td><!--!-->
+                    </tr><!--!-->
+                    <tr><!--!-->
+                        <td class="text-left"><!--!-->
+                            <a href="">06A5276</a><!--!-->
+                        </td><!--!-->
+                        <td class="text-left">SIMMONS, ALPHONSO</td><!--!-->
+                        <td class="text-left">11/03/1967</td><!--!-->
+                        <td class="text-left">RELEASED</td><!--!-->
+                        <td class="text-left">EASTERN</td><!--!-->
+                        <td class="text-left">BLACK</td><!--!-->
+                    </tr><!--!-->
+        </tbody><!--!-->
+    </table>
+
+
+
+    <table class="table table-borderless"><!--!-->
+        <!--!--><thead>
+            <tr class="text-left">
+                <th scope="col">DIN</th>
+                <th scope="col">Name</th>
+                <th scope="col">Birth Date</th>
+                <th scope="col">Status</th>
+                <th scope="col">Facility</th>
+                <th scope="col">Race/Ethnicity</th>
+            </tr>
+        </thead>
+        <tbody><!--!-->
+                    <tr><!--!-->
+                        <td class="text-left"><!--!-->
+                            <a href="">92A5663</a><!--!-->
+                        </td><!--!-->
+                        <td class="text-left">SIMMONS, ALPHONSO</td><!--!-->
+                        <td class="text-left">11/03/1967</td><!--!-->
+                        <td class="text-left">RELEASED</td><!--!-->
+                        <td class="text-left">EDGECOMBE</td><!--!-->
+                        <td class="text-left">BLACK</td><!--!-->
+                    </tr><!--!-->
+                    <tr><!--!-->
+                        <td class="text-left"><!--!-->
+                            <a href="">98R2310</a><!--!-->
+                        </td><!--!-->
+                        <td class="text-left">SIMMONS, ALRIC</td><!--!-->
+                        <td class="text-left">01/15/1961</td><!--!-->
+                        <td class="text-left">RELEASED</td><!--!-->
+                        <td class="text-left">MIDSTATE</td><!--!-->
+                        <td class="text-left">BLACK</td><!--!-->
+                    </tr><!--!-->
+                    <tr><!--!-->
+                        <td class="text-left"><!--!-->
+                            <a href="">92B0541</a><!--!-->
+                        </td><!--!-->
+                        <td class="text-left">SIMMONS, ALVIN</td><!--!-->
+                        <td class="text-left">08/11/1965</td><!--!-->
+                        <td class="text-left">RELEASED</td><!--!-->
+                        <td class="text-left">GOUVERNEUR</td><!--!-->
+                        <td class="text-left">BLACK</td><!--!-->
+                    </tr><!--!-->
+                    <tr><!--!-->
+                        <td class="text-left"><!--!-->
+                            <a href="">96R7826</a><!--!-->
+                        </td><!--!-->
+                        <td class="text-left">SIMMONS, ALVIN</td><!--!-->
+                        <td class="text-left">08/11/1965</td><!--!-->
+                        <td class="text-left">RELEASED</td><!--!-->
+                        <td class="text-left">GROVELAND</td><!--!-->
+                        <td class="text-left">BLACK</td><!--!-->
+                    </tr><!--!-->
+                    <tr><!--!-->
+                        <td class="text-left"><!--!-->
+                            <a href="">10B2742</a><!--!-->
+                        </td><!--!-->
+                        <td class="text-left">SIMMONS, ALVIN E</td><!--!-->
+                        <td class="text-left">08/11/1965</td><!--!-->
+                        <td class="text-left">RELEASED</td><!--!-->
+                        <td class="text-left">ORLEANS</td><!--!-->
+                        <td class="text-left">BLACK</td><!--!-->
+                    </tr><!--!-->
+                    <tr><!--!-->
+                        <td class="text-left"><!--!-->
+                            <a href="">05A6030</a><!--!-->
+                        </td><!--!-->
+                        <td class="text-left">SIMMONS, ANDRE</td><!--!-->
+                        <td class="text-left">06/04/1956</td><!--!-->
+                        <td class="text-left">IN CUSTODY</td><!--!-->
+                        <td class="text-left">GREEN HAVEN</td><!--!-->
+                        <td class="text-left">BLACK</td><!--!-->
+                    </tr><!--!-->
+                    <tr><!--!-->
+                        <td class="text-left"><!--!-->
+                            <a href="">86A2857</a><!--!-->
+                        </td><!--!-->
+                        <td class="text-left">SIMMONS, ANDRE</td><!--!-->
+                        <td class="text-left">06/04/1956</td><!--!-->
+                        <td class="text-left">RELEASED</td><!--!-->
+                        <td class="text-left">ATTICA</td><!--!-->
+                        <td class="text-left">BLACK</td><!--!-->
+                    </tr><!--!-->
+                    <tr><!--!-->
+                        <td class="text-left"><!--!-->
+                            <a href="">88A2378</a><!--!-->
+                        </td><!--!-->
+                        <td class="text-left">SIMMONS, ANDRE</td><!--!-->
+                        <td class="text-left">06/04/1956</td><!--!-->
+                        <td class="text-left">RELEASED</td><!--!-->
+                        <td class="text-left">ATTICA</td><!--!-->
+                        <td class="text-left">BLACK</td><!--!-->
+                    </tr><!--!-->
+                    <tr><!--!-->
+                        <td class="text-left"><!--!-->
+                            <a href="">95A5632</a><!--!-->
+                        </td><!--!-->
+                        <td class="text-left">SIMMONS, ANDRE</td><!--!-->
+                        <td class="text-left">06/04/1956</td><!--!-->
+                        <td class="text-left">DISCHARGED</td><!--!-->
+                        <td class="text-left">CLINTON</td><!--!-->
+                        <td class="text-left">BLACK</td><!--!-->
+                    </tr><!--!-->
+                    <tr><!--!-->
+                        <td class="text-left"><!--!-->
+                            <a href="">88B2596</a><!--!-->
+                        </td><!--!-->
+                        <td class="text-left">SIMMONS, ANDRE</td><!--!-->
+                        <td class="text-left">09/27/1968</td><!--!-->
+                        <td class="text-left">RELEASED</td><!--!-->
+                        <td class="text-left">MID-ORANGE</td><!--!-->
+                        <td class="text-left">BLACK</td><!--!-->
+                    </tr><!--!-->
+        </tbody><!--!-->
+    </table>
+
+    <!-- <div class="container" style="margin-top:1.5rem;">! -->
+        <div class="row d-flex"><!--!-->
+            <div class="col-sm-7 flex-grow-1"><!--!-->
+                <div class="row"><!--!-->
+                    <div class="col"><!--!-->
+                        <h3 class="font-weight-bold">SIMMONS, AARON</h3><!--!-->
+                    </div><!--!-->
+                </div><!--!-->
+                <div class="row"><!--!-->
+                    <div class="col h5 font-weight-bold"><!--!-->
+                        DIN: <span class="col alert-info">20R0164</span><!--!-->
+                    </div><!--!-->
+                </div><!--!-->
+                <!--!--><div class="row font-weight-bold" style="font-size: 1.25rem; margin-bottom: -3px; padding-bottom: -3px;">
+                    <div class="col-sm-3">
+                        Race/Ethnicity:
+                    </div>
+                    <div class="col-sm-3">
+                        Date of Birth:
+                    </div>
+                    <div class="col-sm-1">
+                        (age):
+                    </div>
+                </div>
+                <div class="row" style="margin-top: -4px;padding-top:-4px;"><!--!-->
+                    <div class="col-sm-3"><!--!-->
+                        BLACK<!--!-->
+                    </div><!--!-->
+                    <div class="col-sm-3"><!--!-->
+                        06/24/1999<!--!-->
+                    </div><!--!-->
+                    <div class="col-sm-1 text-nowrap"><!--!-->
+                        23 years old<!--!-->
+                    </div><!--!-->
+                </div><!--!-->
+                <div class="row" style="margin-top: 4px;"><!--!-->
+                    <!--!--><div class="col-sm">
+                        <h5 class="font-weight-bold">Custody Status:</h5>
+                    </div>
+                    <div class="col-sm"><!--!-->
+                        RELEASED<!--!-->
+                    </div><!--!-->
+                </div><!--!-->
+                <div class="row"><!--!-->
+                    <!--!--><div class="col-sm">
+                        <h5 class="font-weight-bold">Housing / Releasing Facility:</h5>
+                    </div>
+                    <div class="col-sm"><!--!-->
+                        QUEENSBORO<!--!-->
+                    </div><!--!-->
+                </div><!--!-->
+                <div class="row"><!--!-->
+                    <!--!--><div class="col-sm">
+                        <h5 class="font-weight-bold">County of Commitment:</h5>
+                    </div>
+                    <div class="col-sm"><!--!-->
+                        QUEENS<!--!-->
+                    </div><!--!-->
+                </div><!--!-->
+                <div class="row"><!--!-->
+                    <!--!--><div class="col-sm">
+                        <h5 class="font-weight-bold">Date Received (original):</h5>
+                    </div>
+                    <div class="col-sm"><!--!-->
+                        01/30/2020<!--!-->
+                    </div><!--!-->
+                </div><!--!-->
+                <div class="row"><!--!-->
+                    <!--!--><div class="col-sm">
+                        <h5 class="font-weight-bold">Date Received (current):</h5>
+                    </div>
+                    <div class="col-sm"><!--!-->
+                        01/30/2020<!--!-->
+                    </div><!--!-->
+                </div><!--!-->
+                <div class="row"><!--!-->
+                    <!--!--><div class="col-sm">
+                        <h5 class="font-weight-bold">Admission Type:</h5>
+                    </div>
+                    <div class="col-sm"><!--!-->
+                        <!--!-->
+                    </div><!--!-->
+                </div><!--!-->
+            </div><!--!-->
+            </div><!--!-->
+            
+        <div class="row"><!--!-->
+            <div class="col-sm-10" style="text-wrap: avoid; margin-bottom: 0.5rem;"><!--!-->
+                <!--!--><span class="font-weight-bold text-nowrap" style="padding-right:5em; font-size:1.25rem; margin-bottom:0.5rem;">Latest Release Date / Type (Released Only):</span><span class="text-nowrap">04/28/22 PAROLE - COND REL TO PAROLE</span><!--!-->
+            </div><!--!-->
+        </div><!--!-->
+        <div class="row" style="margin-top:3rem;"><!--!-->
+            <!--!--><div class="col-sm-3">
+                <span class="font-weight-bold" style="font-size:1.25rem;">Crimes of Conviction:</span>
+            </div>
+            <div class="col-sm-7"><!--!-->
+                If all crime fields below contain data, there may be additional crimes not shown here. The crimes shown here are those with the longest sentences as of 12/03/2022<!--!-->)
+            </div><!--!-->
+        </div><!--!-->
+        <div class="row"><!--!-->
+            <div class="col-sm-6 offset-3"><!--!-->
+
+                    <table class="table table-bordered text-nowrap"><!--!-->
+                        <!--!--><thead>
+                            <tr>
+                                <td><h4 class="font-weight-bold">Crime</h4></td>
+                                <td><h4 class="font-weight-bold">Class</h4></td>
+                            </tr>
+                        </thead>
+                        <tbody><!--!-->
+                            <tr><!--!-->
+                                <td><!--!-->
+                                    <h5>ATT CRIM POSS WEAP 2ND</h5><!--!-->
+                                </td><!--!-->
+                                <td><!--!-->
+                                        <h5>D</h5><!--!-->
+                                </td><!--!-->
+                            </tr><!--!-->
+                            <tr><!--!-->
+                                <td><!--!-->
+                                    <h5></h5><!--!-->
+                                </td><!--!-->
+                                <td><!--!-->
+                                        <!--!--><h5>&nbsp;</h5>
+                                </td><!--!-->
+                            </tr><!--!-->
+                            <tr><!--!-->
+                                <td><!--!-->
+                                    <h5></h5><!--!-->
+                                </td><!--!-->
+                                <td><!--!-->
+                                        <!--!--><h5>&nbsp;</h5>
+                                </td><!--!-->
+                            </tr><!--!-->
+                            <tr><!--!-->
+                                <td><!--!-->
+                                    <h5></h5><!--!-->
+                                </td><!--!-->
+                                <td><!--!-->
+                                        <!--!--><h5>&nbsp;</h5>
+                                </td><!--!-->
+                            </tr><!--!-->
+                        </tbody><!--!-->
+                    </table><!--! -->
+            </div><!--!-->
+        </div><!--!-->
+        <!--!--><div class="row" style="margin-top:3rem;">
+            <div class="col">
+                <h4 class="font-weight-bold">Sentence Terms and Release Dates</h4>
+            </div>
+        </div>
+        <div class="row"><!--!-->
+            <div class="col"><!--!-->
+                Under certain circumstances, an incarcerated may be released prior to serving their minimum term and before the earliest release date shown for the individual. As of 12/03/2022<!--!-->
+            </div><!--!-->
+        </div><!--!-->
+        <div class="row"><!--!-->
+            <!--!--><div class="col-sm-6">
+                <h5 class="font-weight-bold">Aggregate Minimum Sentence</h5>
+            </div>
+            <div class="col-sm-6"><!--!-->
+                2 Years, 6 Months, 24 Days<!--!-->
+            </div><!--!-->
+        </div><!--!-->
+        <div class="row"><!--!-->
+            <!--!--><div class="col-sm-6">
+                <h5 class="font-weight-bold">Aggregate Maximum Sentence</h5>
+            </div>
+            <div class="col-sm-6"><!--!-->
+                3 Years, 0 Months, 0 Days<!--!-->
+            </div><!--!-->
+        </div><!--!-->
+        <div class="row"><!--!-->
+            <!--!--><div class="col-sm-6">
+                <h5 class="font-weight-bold">Earliest Release Date</h5>
+            </div>
+            <div class="col-sm-6"><!--!-->
+                <!--!-->
+            </div><!--!-->
+        </div><!--!-->
+        <div class="row"><!--!-->
+            <!--!--><div class="col-sm-6">
+                <h5 class="font-weight-bold">Earliest Release Type</h5>
+            </div>
+            <div class="col-sm-6"><!--!-->
+                <!--!-->
+            </div><!--!-->
+        </div><!--!-->
+        <div class="row"><!--!-->
+            <!--!--><div class="col-sm-6">
+                <h5 class="font-weight-bold">Parole Interview Date</h5>
+            </div>
+            <div class="col-sm-6"><!--!-->
+                <!--!-->
+            </div><!--!-->
+        </div><!--!-->
+        <div class="row"><!--!-->
+            <!--!--><div class="col-sm-6">
+                <h5 class="font-weight-bold">Parole Interview Type</h5>
+            </div>
+            <div class="col-sm-6"><!--!-->
+                FULL MAXIMUM<!--!-->
+            </div><!--!-->
+        </div><!--!-->
+        <div class="row"><!--!-->
+            <!--!--><div class="col-sm-6">
+                <h5 class="font-weight-bold">Parole Eligibility Date</h5>
+            </div>
+            <div class="col-sm-6"><!--!-->
+                04/29/2022<!--!-->
+            </div><!--!-->
+        </div><!--!-->
+        <div class="row"><!--!-->
+            <!--!--><div class="col-sm-6">
+                <h5 class="font-weight-bold">Conditional Release Date</h5>
+            </div>
+            <div class="col-sm-6"><!--!-->
+                04/29/2022<!--!-->
+            </div><!--!-->
+        </div><!--!-->
+        <div class="row"><!--!-->
+            <!--!--><div class="col-sm-6">
+                <h5 class="font-weight-bold">Maximum Expiration Date</h5>
+            </div>
+            <div class="col-sm-6"><!--!-->
+                10/05/2022<!--!-->
+            </div><!--!-->
+        </div><!--!-->
+        <div class="row"><!--!-->
+            <!--!--><div class="col-sm-6">
+                <h5 class="font-weight-bold">Maximum Expiration Date for Parole Supervision</h5>
+            </div>
+            <div class="col-sm-6"><!--!-->
+                <!--!-->
+            </div><!--!-->
+        </div><!--!-->
+        <div class="row"><!--!-->
+            <!--!--><div class="col-sm-6">
+                <h5 class="font-weight-bold">Post Release Supervision Maximum Expiration Date</h5>
+            </div>
+            <div class="col-sm-6"><!--!-->
+                12/28/2024<!--!-->
+            </div><!--!-->
+        </div><!--!-->
+        <div class="row"><!--!-->
+            <!--!--><div class="col-sm-6">
+                <h5 class="font-weight-bold">Parole Board Discharge Date</h5>
+            </div>
+            <div class="col-sm-6"><!--!-->
+                <!--!-->
+            </div><!--!-->
+        </div><!--!-->
+    <!-- </div> -->
+
+
+    <table class="table table-borderless"><!--!-->
+        <!--!--><thead>
+            <tr class="text-left">
+                <th scope="col">DIN</th>
+                <th scope="col">Name</th>
+                <th scope="col">Birth Date</th>
+                <th scope="col">Status</th>
+                <th scope="col">Facility</th>
+                <th scope="col">Race/Ethnicity</th>
+            </tr>
+        </thead>
+        <tbody><!--!-->
+                    <tr><!--!-->
+                        <td class="text-left"><!--!-->
+                            <a href="">15A2111</a><!--!-->
+                        </td><!--!-->
+                        <td class="text-left">AADIL, MUHAMMAD</td><!--!-->
+                        <td class="text-left">01/25/1984</td><!--!-->
+                        <td class="text-left">RELEASED</td><!--!-->
+                        <td class="text-left">WASHINGTON</td><!--!-->
+                        <td class="text-left">BLACK</td><!--!-->
+                    </tr><!--!-->
+                    <tr><!--!-->
+                        <td class="text-left"><!--!-->
+                            <a href="">17A3873</a><!--!-->
+                        </td><!--!-->
+                        <td class="text-left">AADIM, SAID</td><!--!-->
+                        <td class="text-left">02/23/1988</td><!--!-->
+                        <td class="text-left">RELEASED</td><!--!-->
+                        <td class="text-left">DOWNSTATE</td><!--!-->
+                        <td class="text-left">OTHER</td><!--!-->
+                    </tr><!--!-->
+                    <tr><!--!-->
+                        <td class="text-left"><!--!-->
+                            <a href="">80B0876</a><!--!-->
+                        </td><!--!-->
+                        <td class="text-left">AAKJAR, KELUIN</td><!--!-->
+                        <td class="text-left">09/21/1959</td><!--!-->
+                        <td class="text-left">DISCHARGED</td><!--!-->
+                        <td class="text-left"></td><!--!-->
+                        <td class="text-left">WHITE</td><!--!-->
+                    </tr><!--!-->
+                    <tr><!--!-->
+                        <td class="text-left"><!--!-->
+                            <a href="">17A4372</a><!--!-->
+                        </td><!--!-->
+                        <td class="text-left">AALIL, MICHAEL</td><!--!-->
+                        <td class="text-left">08/09/1996</td><!--!-->
+                        <td class="text-left">RELEASED</td><!--!-->
+                        <td class="text-left">CAPE VINCENT</td><!--!-->
+                        <td class="text-left">OTHER</td><!--!-->
+                    </tr><!--!-->
+                    <tr><!--!-->
+                        <td class="text-left"><!--!-->
+                            <a href="">06A0769</a><!--!-->
+                        </td><!--!-->
+                        <td class="text-left">AARON, ANDRE</td><!--!-->
+                        <td class="text-left">06/22/1970</td><!--!-->
+                        <td class="text-left">DISCHARGED</td><!--!-->
+                        <td class="text-left">MIDSTATE</td><!--!-->
+                        <td class="text-left">BLACK</td><!--!-->
+                    </tr><!--!-->
+                    <tr><!--!-->
+                        <td class="text-left"><!--!-->
+                            <a href="">89B2305</a><!--!-->
+                        </td><!--!-->
+                        <td class="text-left">AARON, ANDRE</td><!--!-->
+                        <td class="text-left">06/22/1970</td><!--!-->
+                        <td class="text-left">RELEASED</td><!--!-->
+                        <td class="text-left">ATTICA</td><!--!-->
+                        <td class="text-left">BLACK</td><!--!-->
+                    </tr><!--!-->
+                    <tr><!--!-->
+                        <td class="text-left"><!--!-->
+                            <a href="">85A7299</a><!--!-->
+                        </td><!--!-->
+                        <td class="text-left">AARON, CHARLES</td><!--!-->
+                        <td class="text-left">02/07/1961</td><!--!-->
+                        <td class="text-left">RELEASED</td><!--!-->
+                        <td class="text-left">ARTHURKILL</td><!--!-->
+                        <td class="text-left">BLACK</td><!--!-->
+                    </tr><!--!-->
+                    <tr><!--!-->
+                        <td class="text-left"><!--!-->
+                            <a href="">93A8492</a><!--!-->
+                        </td><!--!-->
+                        <td class="text-left">AARON, CHARLES</td><!--!-->
+                        <td class="text-left">02/07/1961</td><!--!-->
+                        <td class="text-left">RELEASED</td><!--!-->
+                        <td class="text-left">MIDSTATE</td><!--!-->
+                        <td class="text-left">BLACK</td><!--!-->
+                    </tr><!--!-->
+                    <tr><!--!-->
+                        <td class="text-left"><!--!-->
+                            <a href="">89B0790</a><!--!-->
+                        </td><!--!-->
+                        <td class="text-left">AARON, CHARLES</td><!--!-->
+                        <td class="text-left">08/12/1970</td><!--!-->
+                        <td class="text-left">RELEASED</td><!--!-->
+                        <td class="text-left">BARE HILL</td><!--!-->
+                        <td class="text-left">BLACK</td><!--!-->
+                    </tr><!--!-->
+                    <tr><!--!-->
+                        <td class="text-left"><!--!-->
+                            <a href="">80A1887</a><!--!-->
+                        </td><!--!-->
+                        <td class="text-left">AARON, CORNELL</td><!--!-->
+                        <td class="text-left">11/25/1957</td><!--!-->
+                        <td class="text-left">RELEASED</td><!--!-->
+                        <td class="text-left">SING SING</td><!--!-->
+                        <td class="text-left">BLACK</td><!--!-->
+                    </tr><!--!-->
+        </tbody><!--!-->
+    </table>
+    <table class="table table-borderless"><!--!-->
+        <!--!--><thead>
+            <tr class="text-left">
+                <th scope="col">DIN</th>
+                <th scope="col">Name</th>
+                <th scope="col">Birth Date</th>
+                <th scope="col">Status</th>
+                <th scope="col">Facility</th>
+                <th scope="col">Race/Ethnicity</th>
+            </tr>
+        </thead>
+        <tbody><!--!-->
+                    <tr><!--!-->
+                        <td class="text-left"><!--!-->
+                            <a href="">90A1210</a><!--!-->
+                        </td><!--!-->
+                        <td class="text-left">AARON, CORNELL</td><!--!-->
+                        <td class="text-left">11/25/1957</td><!--!-->
+                        <td class="text-left">DISCHARGED</td><!--!-->
+                        <td class="text-left">AUBURN</td><!--!-->
+                        <td class="text-left">BLACK</td><!--!-->
+                    </tr><!--!-->
+                    <tr><!--!-->
+                        <td class="text-left"><!--!-->
+                            <a href="">82B0471</a><!--!-->
+                        </td><!--!-->
+                        <td class="text-left">AARON, DARRYL</td><!--!-->
+                        <td class="text-left">05/05/1965</td><!--!-->
+                        <td class="text-left">RELEASED</td><!--!-->
+                        <td class="text-left">SOUTHPORT</td><!--!-->
+                        <td class="text-left">BLACK</td><!--!-->
+                    </tr><!--!-->
+                    <tr><!--!-->
+                        <td class="text-left"><!--!-->
+                            <a href="">18A0886</a><!--!-->
+                        </td><!--!-->
+                        <td class="text-left">AARON, DORIAN</td><!--!-->
+                        <td class="text-left">12/20/1992</td><!--!-->
+                        <td class="text-left">IN CUSTODY</td><!--!-->
+                        <td class="text-left">MARCY</td><!--!-->
+                        <td class="text-left">BLACK</td><!--!-->
+                    </tr><!--!-->
+                    <tr><!--!-->
+                        <td class="text-left"><!--!-->
+                            <a href="">19B1604</a><!--!-->
+                        </td><!--!-->
+                        <td class="text-left">AARON, DSEAN M</td><!--!-->
+                        <td class="text-left">02/24/1993</td><!--!-->
+                        <td class="text-left">IN CUSTODY</td><!--!-->
+                        <td class="text-left">COXSACKIE</td><!--!-->
+                        <td class="text-left">BLACK</td><!--!-->
+                    </tr><!--!-->
+                    <tr><!--!-->
+                        <td class="text-left"><!--!-->
+                            <a href="">96R3734</a><!--!-->
+                        </td><!--!-->
+                        <td class="text-left">AARON, DWIGHT</td><!--!-->
+                        <td class="text-left">05/27/1967</td><!--!-->
+                        <td class="text-left">RELEASED</td><!--!-->
+                        <td class="text-left">COLLINS</td><!--!-->
+                        <td class="text-left">BLACK</td><!--!-->
+                    </tr><!--!-->
+                    <tr><!--!-->
+                        <td class="text-left"><!--!-->
+                            <a href="">76A3164</a><!--!-->
+                        </td><!--!-->
+                        <td class="text-left">AARON, EDDIE</td><!--!-->
+                        <td class="text-left">10/20/1954</td><!--!-->
+                        <td class="text-left">DISCHARGED</td><!--!-->
+                        <td class="text-left"></td><!--!-->
+                        <td class="text-left">BLACK</td><!--!-->
+                    </tr><!--!-->
+                    <tr><!--!-->
+                        <td class="text-left"><!--!-->
+                            <a href="">74A0621</a><!--!-->
+                        </td><!--!-->
+                        <td class="text-left">AARON, JAMES</td><!--!-->
+                        <td class="text-left">02/15/1950</td><!--!-->
+                        <td class="text-left">RELEASED</td><!--!-->
+                        <td class="text-left"></td><!--!-->
+                        <td class="text-left">BLACK</td><!--!-->
+                    </tr><!--!-->
+                    <tr><!--!-->
+                        <td class="text-left"><!--!-->
+                            <a href="">77A2554</a><!--!-->
+                        </td><!--!-->
+                        <td class="text-left">AARON, JAMES</td><!--!-->
+                        <td class="text-left">11/24/1955</td><!--!-->
+                        <td class="text-left">DISCHARGED</td><!--!-->
+                        <td class="text-left"></td><!--!-->
+                        <td class="text-left">BLACK</td><!--!-->
+                    </tr><!--!-->
+                    <tr><!--!-->
+                        <td class="text-left"><!--!-->
+                            <a href="">21A1491</a><!--!-->
+                        </td><!--!-->
+                        <td class="text-left">AARON, JASON</td><!--!-->
+                        <td class="text-left">01/01/1984</td><!--!-->
+                        <td class="text-left">RELEASED</td><!--!-->
+                        <td class="text-left">SING SING</td><!--!-->
+                        <td class="text-left">BLACK</td><!--!-->
+                    </tr><!--!-->
+                    <tr><!--!-->
+                        <td class="text-left"><!--!-->
+                            <a href="">14A1294</a><!--!-->
+                        </td><!--!-->
+                        <td class="text-left">AARON, JONATHAN</td><!--!-->
+                        <td class="text-left">09/17/1980</td><!--!-->
+                        <td class="text-left">RELEASED</td><!--!-->
+                        <td class="text-left">DOWNSTATE</td><!--!-->
+                        <td class="text-left">BLACK</td><!--!-->
+                    </tr><!--!-->
+        </tbody><!--!-->
+    </table>
+    <table class="table table-borderless"><!--!-->
+        <!--!--><thead>
+            <tr class="text-left">
+                <th scope="col">DIN</th>
+                <th scope="col">Name</th>
+                <th scope="col">Birth Date</th>
+                <th scope="col">Status</th>
+                <th scope="col">Facility</th>
+                <th scope="col">Race/Ethnicity</th>
+            </tr>
+        </thead>
+        <tbody><!--!-->
+                    <tr><!--!-->
+                        <td class="text-left"><!--!-->
+                            <a href="">80A3323</a><!--!-->
+                        </td><!--!-->
+                        <td class="text-left">AARON, ROBERT</td><!--!-->
+                        <td class="text-left">09/27/1954</td><!--!-->
+                        <td class="text-left">RELEASED</td><!--!-->
+                        <td class="text-left"></td><!--!-->
+                        <td class="text-left">BLACK</td><!--!-->
+                    </tr><!--!-->
+                    <tr><!--!-->
+                        <td class="text-left"><!--!-->
+                            <a href="">86A3383</a><!--!-->
+                        </td><!--!-->
+                        <td class="text-left">AARON, ROBERT</td><!--!-->
+                        <td class="text-left">09/27/1954</td><!--!-->
+                        <td class="text-left">DISCHARGED</td><!--!-->
+                        <td class="text-left">GREEN HAVEN</td><!--!-->
+                        <td class="text-left">BLACK</td><!--!-->
+                    </tr><!--!-->
+                    <tr><!--!-->
+                        <td class="text-left"><!--!-->
+                            <a href="">80C0577</a><!--!-->
+                        </td><!--!-->
+                        <td class="text-left">AARON, TOM T</td><!--!-->
+                        <td class="text-left">09/06/1949</td><!--!-->
+                        <td class="text-left">RELEASED</td><!--!-->
+                        <td class="text-left"></td><!--!-->
+                        <td class="text-left">BLACK</td><!--!-->
+                    </tr><!--!-->
+                    <tr><!--!-->
+                        <td class="text-left"><!--!-->
+                            <a href="">73A6504</a><!--!-->
+                        </td><!--!-->
+                        <td class="text-left">AARON, WALLACE</td><!--!-->
+                        <td class="text-left">10/19/1948</td><!--!-->
+                        <td class="text-left">DISCHARGED</td><!--!-->
+                        <td class="text-left"></td><!--!-->
+                        <td class="text-left">BLACK</td><!--!-->
+                    </tr><!--!-->
+                    <tr><!--!-->
+                        <td class="text-left"><!--!-->
+                            <a href="">79A4203</a><!--!-->
+                        </td><!--!-->
+                        <td class="text-left">AARON, WALLACE</td><!--!-->
+                        <td class="text-left">10/19/1948</td><!--!-->
+                        <td class="text-left">DISCHARGED</td><!--!-->
+                        <td class="text-left"></td><!--!-->
+                        <td class="text-left">BLACK</td><!--!-->
+                    </tr><!--!-->
+                    <tr><!--!-->
+                        <td class="text-left"><!--!-->
+                            <a href="">72A1127</a><!--!-->
+                        </td><!--!-->
+                        <td class="text-left">AARON, WARDELL</td><!--!-->
+                        <td class="text-left">08/21/1946</td><!--!-->
+                        <td class="text-left">DISCHARGED</td><!--!-->
+                        <td class="text-left"></td><!--!-->
+                        <td class="text-left">BLACK</td><!--!-->
+                    </tr><!--!-->
+                    <tr><!--!-->
+                        <td class="text-left"><!--!-->
+                            <a href="">79A1777</a><!--!-->
+                        </td><!--!-->
+                        <td class="text-left">AARON, WARDELL</td><!--!-->
+                        <td class="text-left">08/25/1947</td><!--!-->
+                        <td class="text-left">RELEASED</td><!--!-->
+                        <td class="text-left"></td><!--!-->
+                        <td class="text-left">BLACK</td><!--!-->
+                    </tr><!--!-->
+                    <tr><!--!-->
+                        <td class="text-left"><!--!-->
+                            <a href="">78A0838</a><!--!-->
+                        </td><!--!-->
+                        <td class="text-left">AARON, WILLIAM</td><!--!-->
+                        <td class="text-left">01/15/1953</td><!--!-->
+                        <td class="text-left">DISCHARGED</td><!--!-->
+                        <td class="text-left"></td><!--!-->
+                        <td class="text-left">BLACK</td><!--!-->
+                    </tr><!--!-->
+                    <tr><!--!-->
+                        <td class="text-left"><!--!-->
+                            <a href="">87T0632</a><!--!-->
+                        </td><!--!-->
+                        <td class="text-left">AARON, WILLIAM</td><!--!-->
+                        <td class="text-left">01/15/1953</td><!--!-->
+                        <td class="text-left">RELEASED</td><!--!-->
+                        <td class="text-left">FISHKILL</td><!--!-->
+                        <td class="text-left">BLACK</td><!--!-->
+                    </tr><!--!-->
+                    <tr><!--!-->
+                        <td class="text-left"><!--!-->
+                            <a href="">71C0138</a><!--!-->
+                        </td><!--!-->
+                        <td class="text-left">AARON, WILLIE</td><!--!-->
+                        <td class="text-left">04/03/1925</td><!--!-->
+                        <td class="text-left">RELEASED</td><!--!-->
+                        <td class="text-left"></td><!--!-->
+                        <td class="text-left">BLACK</td><!--!-->
+                    </tr><!--!-->
+        </tbody><!--!-->
+    </table>
+    <table class="table table-borderless"><!--!-->
+        <!--!--><thead>
+            <tr class="text-left">
+                <th scope="col">DIN</th>
+                <th scope="col">Name</th>
+                <th scope="col">Birth Date</th>
+                <th scope="col">Status</th>
+                <th scope="col">Facility</th>
+                <th scope="col">Race/Ethnicity</th>
+            </tr>
+        </thead>
+        <tbody><!--!-->
+                    <tr><!--!-->
+                        <td class="text-left"><!--!-->
+                            <a href="">89A7374</a><!--!-->
+                        </td><!--!-->
+                        <td class="text-left">AARONS, CARL</td><!--!-->
+                        <td class="text-left">08/18/1961</td><!--!-->
+                        <td class="text-left">RELEASED</td><!--!-->
+                        <td class="text-left">GREENE</td><!--!-->
+                        <td class="text-left">BLACK</td><!--!-->
+                    </tr><!--!-->
+                    <tr><!--!-->
+                        <td class="text-left"><!--!-->
+                            <a href="">00A5681</a><!--!-->
+                        </td><!--!-->
+                        <td class="text-left">AARONS, MICHAEL</td><!--!-->
+                        <td class="text-left">08/13/1969</td><!--!-->
+                        <td class="text-left">RELEASED</td><!--!-->
+                        <td class="text-left">FISHKILL</td><!--!-->
+                        <td class="text-left">BLACK</td><!--!-->
+                    </tr><!--!-->
+                    <tr><!--!-->
+                        <td class="text-left"><!--!-->
+                            <a href="">78A3536</a><!--!-->
+                        </td><!--!-->
+                        <td class="text-left">AARONS, WINSTON C</td><!--!-->
+                        <td class="text-left">06/22/1941</td><!--!-->
+                        <td class="text-left">DISCHARGED</td><!--!-->
+                        <td class="text-left"></td><!--!-->
+                        <td class="text-left">BLACK</td><!--!-->
+                    </tr><!--!-->
+                    <tr><!--!-->
+                        <td class="text-left"><!--!-->
+                            <a href="">77A2408</a><!--!-->
+                        </td><!--!-->
+                        <td class="text-left">AARONSON, DAVID J</td><!--!-->
+                        <td class="text-left">12/17/1955</td><!--!-->
+                        <td class="text-left">RELEASED</td><!--!-->
+                        <td class="text-left"></td><!--!-->
+                        <td class="text-left">WHITE</td><!--!-->
+                    </tr><!--!-->
+                    <tr><!--!-->
+                        <td class="text-left"><!--!-->
+                            <a href="">75A0144</a><!--!-->
+                        </td><!--!-->
+                        <td class="text-left">AARONSON, ROBERT L</td><!--!-->
+                        <td class="text-left">07/05/1950</td><!--!-->
+                        <td class="text-left">DISCHARGED</td><!--!-->
+                        <td class="text-left"></td><!--!-->
+                        <td class="text-left">WHITE</td><!--!-->
+                    </tr><!--!-->
+                    <tr><!--!-->
+                        <td class="text-left"><!--!-->
+                            <a href="">87A4189</a><!--!-->
+                        </td><!--!-->
+                        <td class="text-left">AARONSON, WILLIAM</td><!--!-->
+                        <td class="text-left">05/25/1953</td><!--!-->
+                        <td class="text-left">DISCHARGED</td><!--!-->
+                        <td class="text-left">SING SING</td><!--!-->
+                        <td class="text-left">WHITE</td><!--!-->
+                    </tr><!--!-->
+                    <tr><!--!-->
+                        <td class="text-left"><!--!-->
+                            <a href="">19R0099</a><!--!-->
+                        </td><!--!-->
+                        <td class="text-left">ABAD, ABEL</td><!--!-->
+                        <td class="text-left">04/30/1973</td><!--!-->
+                        <td class="text-left">RELEASED</td><!--!-->
+                        <td class="text-left">CAPE VINCENT</td><!--!-->
+                        <td class="text-left">HISPANIC</td><!--!-->
+                    </tr><!--!-->
+                    <tr><!--!-->
+                        <td class="text-left"><!--!-->
+                            <a href="">18R2410</a><!--!-->
+                        </td><!--!-->
+                        <td class="text-left">ABAD, BRYAN</td><!--!-->
+                        <td class="text-left">06/04/1997</td><!--!-->
+                        <td class="text-left">RELEASED</td><!--!-->
+                        <td class="text-left">MIDSTATE</td><!--!-->
+                        <td class="text-left">HISPANIC</td><!--!-->
+                    </tr><!--!-->
+                    <tr><!--!-->
+                        <td class="text-left"><!--!-->
+                            <a href="">97A5124</a><!--!-->
+                        </td><!--!-->
+                        <td class="text-left">ABAD, EDDY</td><!--!-->
+                        <td class="text-left">09/28/1967</td><!--!-->
+                        <td class="text-left">RELEASED</td><!--!-->
+                        <td class="text-left">FISHKILL</td><!--!-->
+                        <td class="text-left">BLACK</td><!--!-->
+                    </tr><!--!-->
+                    <tr><!--!-->
+                        <td class="text-left"><!--!-->
+                            <a href="">03A5740</a><!--!-->
+                        </td><!--!-->
+                        <td class="text-left">ABAD, ENGELBERT A</td><!--!-->
+                        <td class="text-left">01/09/1971</td><!--!-->
+                        <td class="text-left">RELEASED</td><!--!-->
+                        <td class="text-left">WILLARD</td><!--!-->
+                        <td class="text-left">HISPANIC</td><!--!-->
+                    </tr><!--!-->
+        </tbody><!--!-->
+    </table>
+    <table class="table table-borderless"><!--!-->
+        <!--!--><thead>
+            <tr class="text-left">
+                <th scope="col">DIN</th>
+                <th scope="col">Name</th>
+                <th scope="col">Birth Date</th>
+                <th scope="col">Status</th>
+                <th scope="col">Facility</th>
+                <th scope="col">Race/Ethnicity</th>
+            </tr>
+        </thead>
+        <tbody><!--!-->
+                    <tr><!--!-->
+                        <td class="text-left"><!--!-->
+                            <a href="">13R2125</a><!--!-->
+                        </td><!--!-->
+                        <td class="text-left">ABAD, ENGELBERT A</td><!--!-->
+                        <td class="text-left">01/09/1971</td><!--!-->
+                        <td class="text-left">RELEASED</td><!--!-->
+                        <td class="text-left">DOWNSTATE</td><!--!-->
+                        <td class="text-left">BLACK/HISPANIC</td><!--!-->
+                    </tr><!--!-->
+                    <tr><!--!-->
+                        <td class="text-left"><!--!-->
+                            <a href="">77A1337</a><!--!-->
+                        </td><!--!-->
+                        <td class="text-left">ABAD, ERNESTO</td><!--!-->
+                        <td class="text-left">11/23/1953</td><!--!-->
+                        <td class="text-left">RELEASED</td><!--!-->
+                        <td class="text-left"></td><!--!-->
+                        <td class="text-left">ASIAN</td><!--!-->
+                    </tr><!--!-->
+                    <tr><!--!-->
+                        <td class="text-left"><!--!-->
+                            <a href="">91R4028</a><!--!-->
+                        </td><!--!-->
+                        <td class="text-left">ABAD, HECTOR</td><!--!-->
+                        <td class="text-left">11/19/1954</td><!--!-->
+                        <td class="text-left">RELEASED</td><!--!-->
+                        <td class="text-left">LINCOLN</td><!--!-->
+                        <td class="text-left">WHITE/HISPANIC</td><!--!-->
+                    </tr><!--!-->
+                    <tr><!--!-->
+                        <td class="text-left"><!--!-->
+                            <a href="">17R2186</a><!--!-->
+                        </td><!--!-->
+                        <td class="text-left">ABAD, JOHNATHAN</td><!--!-->
+                        <td class="text-left">09/30/1986</td><!--!-->
+                        <td class="text-left">RELEASED</td><!--!-->
+                        <td class="text-left">WALLKILL</td><!--!-->
+                        <td class="text-left">WHITE</td><!--!-->
+                    </tr><!--!-->
+                    <tr><!--!-->
+                        <td class="text-left"><!--!-->
+                            <a href="">04A5039</a><!--!-->
+                        </td><!--!-->
+                        <td class="text-left">ABAD, JORGE</td><!--!-->
+                        <td class="text-left">08/17/1976</td><!--!-->
+                        <td class="text-left">RELEASED</td><!--!-->
+                        <td class="text-left">QUEENSBORO</td><!--!-->
+                        <td class="text-left">HISPANIC</td><!--!-->
+                    </tr><!--!-->
+                    <tr><!--!-->
+                        <td class="text-left"><!--!-->
+                            <a href="">09R1817</a><!--!-->
+                        </td><!--!-->
+                        <td class="text-left">ABAD, JORGE</td><!--!-->
+                        <td class="text-left">08/17/1976</td><!--!-->
+                        <td class="text-left">RELEASED</td><!--!-->
+                        <td class="text-left">QUEENSBORO</td><!--!-->
+                        <td class="text-left">UNKNOWN</td><!--!-->
+                    </tr><!--!-->
+                    <tr><!--!-->
+                        <td class="text-left"><!--!-->
+                            <a href="">21R0583</a><!--!-->
+                        </td><!--!-->
+                        <td class="text-left">ABAD, JORGE</td><!--!-->
+                        <td class="text-left">08/17/1976</td><!--!-->
+                        <td class="text-left">IN CUSTODY</td><!--!-->
+                        <td class="text-left">WOODBOURNE</td><!--!-->
+                        <td class="text-left">HISPANIC</td><!--!-->
+                    </tr><!--!-->
+                    <tr><!--!-->
+                        <td class="text-left"><!--!-->
+                            <a href="">96A6224</a><!--!-->
+                        </td><!--!-->
+                        <td class="text-left">ABAD, JORGE</td><!--!-->
+                        <td class="text-left">08/17/1976</td><!--!-->
+                        <td class="text-left">RELEASED</td><!--!-->
+                        <td class="text-left">GREENE</td><!--!-->
+                        <td class="text-left">WHITE/HISPANIC</td><!--!-->
+                    </tr><!--!-->
+                    <tr><!--!-->
+                        <td class="text-left"><!--!-->
+                            <a href="">91A7854</a><!--!-->
+                        </td><!--!-->
+                        <td class="text-left">ABAD, MANUEL</td><!--!-->
+                        <td class="text-left">04/14/1946</td><!--!-->
+                        <td class="text-left">RELEASED</td><!--!-->
+                        <td class="text-left">ALTONA</td><!--!-->
+                        <td class="text-left">BLACK/HISPANIC</td><!--!-->
+                    </tr><!--!-->
+                    <tr><!--!-->
+                        <td class="text-left"><!--!-->
+                            <a href="">17A2673</a><!--!-->
+                        </td><!--!-->
+                        <td class="text-left">ABAD, PEDRO</td><!--!-->
+                        <td class="text-left">09/22/1987</td><!--!-->
+                        <td class="text-left">IN CUSTODY</td><!--!-->
+                        <td class="text-left">CLINTON</td><!--!-->
+                        <td class="text-left">HISPANIC</td><!--!-->
+                    </tr><!--!-->
+        </tbody><!--!-->
+    </table>
+    <table class="table table-borderless"><!--!-->
+        <!--!--><thead>
+            <tr class="text-left">
+                <th scope="col">DIN</th>
+                <th scope="col">Name</th>
+                <th scope="col">Birth Date</th>
+                <th scope="col">Status</th>
+                <th scope="col">Facility</th>
+                <th scope="col">Race/Ethnicity</th>
+            </tr>
+        </thead>
+        <tbody><!--!-->
+                    <tr><!--!-->
+                        <td class="text-left"><!--!-->
+                            <a href="">92R7333</a><!--!-->
+                        </td><!--!-->
+                        <td class="text-left">ABAD, RAMON</td><!--!-->
+                        <td class="text-left">07/18/1968</td><!--!-->
+                        <td class="text-left">RELEASED</td><!--!-->
+                        <td class="text-left">ORLEANS</td><!--!-->
+                        <td class="text-left">BLACK/HISPANIC</td><!--!-->
+                    </tr><!--!-->
+                    <tr><!--!-->
+                        <td class="text-left"><!--!-->
+                            <a href="">19G0783</a><!--!-->
+                        </td><!--!-->
+                        <td class="text-left">ABAD, REBECCA</td><!--!-->
+                        <td class="text-left">02/05/1986</td><!--!-->
+                        <td class="text-left">RELEASED</td><!--!-->
+                        <td class="text-left">ALBION</td><!--!-->
+                        <td class="text-left">WHITE/HISPANIC</td><!--!-->
+                    </tr><!--!-->
+                    <tr><!--!-->
+                        <td class="text-left"><!--!-->
+                            <a href="">19R2120</a><!--!-->
+                        </td><!--!-->
+                        <td class="text-left">ABAD PINANCELA, MANUEL</td><!--!-->
+                        <td class="text-left">09/18/1974</td><!--!-->
+                        <td class="text-left">IN CUSTODY</td><!--!-->
+                        <td class="text-left">GROVELAND</td><!--!-->
+                        <td class="text-left">HISPANIC</td><!--!-->
+                    </tr><!--!-->
+                    <tr><!--!-->
+                        <td class="text-left"><!--!-->
+                            <a href="">77A1271</a><!--!-->
+                        </td><!--!-->
+                        <td class="text-left">ABADIA, HECTOR</td><!--!-->
+                        <td class="text-left">04/13/1941</td><!--!-->
+                        <td class="text-left">DISCHARGED</td><!--!-->
+                        <td class="text-left"></td><!--!-->
+                        <td class="text-left">HISPANIC</td><!--!-->
+                    </tr><!--!-->
+                    <tr><!--!-->
+                        <td class="text-left"><!--!-->
+                            <a href="">87D0009</a><!--!-->
+                        </td><!--!-->
+                        <td class="text-left">ABAIR, ROY</td><!--!-->
+                        <td class="text-left">12/28/1938</td><!--!-->
+                        <td class="text-left">DISCHARGED</td><!--!-->
+                        <td class="text-left">FISHKILL</td><!--!-->
+                        <td class="text-left">WHITE</td><!--!-->
+                    </tr><!--!-->
+                    <tr><!--!-->
+                        <td class="text-left"><!--!-->
+                            <a href="">17A2849</a><!--!-->
+                        </td><!--!-->
+                        <td class="text-left">ABAKULOV, AKMALJON</td><!--!-->
+                        <td class="text-left">02/05/1989</td><!--!-->
+                        <td class="text-left">RELEASED</td><!--!-->
+                        <td class="text-left">WYOMING</td><!--!-->
+                        <td class="text-left">OTHER</td><!--!-->
+                    </tr><!--!-->
+                    <tr><!--!-->
+                        <td class="text-left"><!--!-->
+                            <a href="">16A4875</a><!--!-->
+                        </td><!--!-->
+                        <td class="text-left">ABALCO, ERIC</td><!--!-->
+                        <td class="text-left">04/12/1988</td><!--!-->
+                        <td class="text-left">RELEASED</td><!--!-->
+                        <td class="text-left">LAKEVIEW</td><!--!-->
+                        <td class="text-left">HISPANIC</td><!--!-->
+                    </tr><!--!-->
+                    <tr><!--!-->
+                        <td class="text-left"><!--!-->
+                            <a href="">95R6054</a><!--!-->
+                        </td><!--!-->
+                        <td class="text-left">ABALES, NAPOLEAN</td><!--!-->
+                        <td class="text-left">09/30/1943</td><!--!-->
+                        <td class="text-left">RELEASED</td><!--!-->
+                        <td class="text-left">QUEENSBORO</td><!--!-->
+                        <td class="text-left">WHITE/HISPANIC</td><!--!-->
+                    </tr><!--!-->
+                    <tr><!--!-->
+                        <td class="text-left"><!--!-->
+                            <a href="">90B2731</a><!--!-->
+                        </td><!--!-->
+                        <td class="text-left">ABALLE, GUILLERMO</td><!--!-->
+                        <td class="text-left">01/04/1970</td><!--!-->
+                        <td class="text-left">RELEASED</td><!--!-->
+                        <td class="text-left">EASTERN</td><!--!-->
+                        <td class="text-left">HISPANIC</td><!--!-->
+                    </tr><!--!-->
+                    <tr><!--!-->
+                        <td class="text-left"><!--!-->
+                            <a href="">74B0783</a><!--!-->
+                        </td><!--!-->
+                        <td class="text-left">ABAR, ALLAH</td><!--!-->
+                        <td class="text-left">09/24/1953</td><!--!-->
+                        <td class="text-left">DISCHARGED</td><!--!-->
+                        <td class="text-left"></td><!--!-->
+                        <td class="text-left">BLACK</td><!--!-->
+                    </tr><!--!-->
+        </tbody><!--!-->
+    </table>
+    <table class="table table-borderless"><!--!-->
+        <!--!--><thead>
+            <tr class="text-left">
+                <th scope="col">DIN</th>
+                <th scope="col">Name</th>
+                <th scope="col">Birth Date</th>
+                <th scope="col">Status</th>
+                <th scope="col">Facility</th>
+                <th scope="col">Race/Ethnicity</th>
+            </tr>
+        </thead>
+        <tbody><!--!-->
+                    <tr><!--!-->
+                        <td class="text-left"><!--!-->
+                            <a href="">00A7173</a><!--!-->
+                        </td><!--!-->
+                        <td class="text-left">ABAR, CHRISTOPHER A</td><!--!-->
+                        <td class="text-left">07/26/1969</td><!--!-->
+                        <td class="text-left">RELEASED</td><!--!-->
+                        <td class="text-left">BARE HILL</td><!--!-->
+                        <td class="text-left">WHITE</td><!--!-->
+                    </tr><!--!-->
+                    <tr><!--!-->
+                        <td class="text-left"><!--!-->
+                            <a href="">19A1037</a><!--!-->
+                        </td><!--!-->
+                        <td class="text-left">ABARCA, GUSTAVO</td><!--!-->
+                        <td class="text-left">06/28/1990</td><!--!-->
+                        <td class="text-left">DISCHARGED</td><!--!-->
+                        <td class="text-left">WOODBOURNE</td><!--!-->
+                        <td class="text-left">WHITE</td><!--!-->
+                    </tr><!--!-->
+                    <tr><!--!-->
+                        <td class="text-left"><!--!-->
+                            <a href="">18B2461</a><!--!-->
+                        </td><!--!-->
+                        <td class="text-left">ABARE, ALLEN V</td><!--!-->
+                        <td class="text-left">08/12/1974</td><!--!-->
+                        <td class="text-left">RELEASED</td><!--!-->
+                        <td class="text-left">MARCY</td><!--!-->
+                        <td class="text-left">WHITE</td><!--!-->
+                    </tr><!--!-->
+                    <tr><!--!-->
+                        <td class="text-left"><!--!-->
+                            <a href="">04A4699</a><!--!-->
+                        </td><!--!-->
+                        <td class="text-left">ABARE, JEFFREY R</td><!--!-->
+                        <td class="text-left">11/26/1970</td><!--!-->
+                        <td class="text-left">RELEASED</td><!--!-->
+                        <td class="text-left">MIDSTATE</td><!--!-->
+                        <td class="text-left">WHITE</td><!--!-->
+                    </tr><!--!-->
+                    <tr><!--!-->
+                        <td class="text-left"><!--!-->
+                            <a href="">16A3977</a><!--!-->
+                        </td><!--!-->
+                        <td class="text-left">ABARE, JEFFREY R</td><!--!-->
+                        <td class="text-left">11/26/1970</td><!--!-->
+                        <td class="text-left">RELEASED</td><!--!-->
+                        <td class="text-left">WYOMING</td><!--!-->
+                        <td class="text-left">WHITE</td><!--!-->
+                    </tr><!--!-->
+                    <tr><!--!-->
+                        <td class="text-left"><!--!-->
+                            <a href="">98A5661</a><!--!-->
+                        </td><!--!-->
+                        <td class="text-left">ABARE, JEFFREY R</td><!--!-->
+                        <td class="text-left">11/26/1970</td><!--!-->
+                        <td class="text-left">DISCHARGED</td><!--!-->
+                        <td class="text-left">MIDSTATE</td><!--!-->
+                        <td class="text-left">WHITE</td><!--!-->
+                    </tr><!--!-->
+                    <tr><!--!-->
+                        <td class="text-left"><!--!-->
+                            <a href="">12A3491</a><!--!-->
+                        </td><!--!-->
+                        <td class="text-left">ABARE, JOSHUA L</td><!--!-->
+                        <td class="text-left">12/22/1989</td><!--!-->
+                        <td class="text-left">DISCHARGED</td><!--!-->
+                        <td class="text-left">DOWNSTATE</td><!--!-->
+                        <td class="text-left">WHITE</td><!--!-->
+                    </tr><!--!-->
+                    <tr><!--!-->
+                        <td class="text-left"><!--!-->
+                            <a href="">16A3476</a><!--!-->
+                        </td><!--!-->
+                        <td class="text-left">ABARE, JOSHUA L</td><!--!-->
+                        <td class="text-left">12/22/1989</td><!--!-->
+                        <td class="text-left">DISCHARGED</td><!--!-->
+                        <td class="text-left">MOHAWK</td><!--!-->
+                        <td class="text-left">WHITE</td><!--!-->
+                    </tr><!--!-->
+                    <tr><!--!-->
+                        <td class="text-left"><!--!-->
+                            <a href="">04A5249</a><!--!-->
+                        </td><!--!-->
+                        <td class="text-left">ABARE, KENNETH J</td><!--!-->
+                        <td class="text-left">08/16/1977</td><!--!-->
+                        <td class="text-left">RELEASED</td><!--!-->
+                        <td class="text-left">ORLEANS</td><!--!-->
+                        <td class="text-left">WHITE</td><!--!-->
+                    </tr><!--!-->
+                    <tr><!--!-->
+                        <td class="text-left"><!--!-->
+                            <a href="">17A1474</a><!--!-->
+                        </td><!--!-->
+                        <td class="text-left">ABARE, KENNETH J</td><!--!-->
+                        <td class="text-left">08/16/1977</td><!--!-->
+                        <td class="text-left">RELEASED</td><!--!-->
+                        <td class="text-left">MOHAWK</td><!--!-->
+                        <td class="text-left">WHITE</td><!--!-->
+                    </tr><!--!-->
+        </tbody><!--!-->
+    </table>
+    <table class="table table-borderless"><!--!-->
+        <!--!--><thead>
+            <tr class="text-left">
+                <th scope="col">DIN</th>
+                <th scope="col">Name</th>
+                <th scope="col">Birth Date</th>
+                <th scope="col">Status</th>
+                <th scope="col">Facility</th>
+                <th scope="col">Race/Ethnicity</th>
+            </tr>
+        </thead>
+        <tbody><!--!-->
+                    <tr><!--!-->
+                        <td class="text-left"><!--!-->
+                            <a href="">22B3946</a><!--!-->
+                        </td><!--!-->
+                        <td class="text-left">ABARE, KENNETH J</td><!--!-->
+                        <td class="text-left">08/16/1977</td><!--!-->
+                        <td class="text-left">IN CUSTODY</td><!--!-->
+                        <td class="text-left">COLLINS</td><!--!-->
+                        <td class="text-left">WHITE</td><!--!-->
+                    </tr><!--!-->
+                    <tr><!--!-->
+                        <td class="text-left"><!--!-->
+                            <a href="">17A4541</a><!--!-->
+                        </td><!--!-->
+                        <td class="text-left">ABARE, LANCE E</td><!--!-->
+                        <td class="text-left">03/15/1991</td><!--!-->
+                        <td class="text-left">RELEASED</td><!--!-->
+                        <td class="text-left">MOHAWK</td><!--!-->
+                        <td class="text-left">WHITE</td><!--!-->
+                    </tr><!--!-->
+                    <tr><!--!-->
+                        <td class="text-left"><!--!-->
+                            <a href="">14A2327</a><!--!-->
+                        </td><!--!-->
+                        <td class="text-left">ABARE, LANCE E JR</td><!--!-->
+                        <td class="text-left">03/15/1991</td><!--!-->
+                        <td class="text-left">RELEASED</td><!--!-->
+                        <td class="text-left">MOHAWK</td><!--!-->
+                        <td class="text-left">WHITE</td><!--!-->
+                    </tr><!--!-->
+                    <tr><!--!-->
+                        <td class="text-left"><!--!-->
+                            <a href="">21A1019</a><!--!-->
+                        </td><!--!-->
+                        <td class="text-left">ABARE, LANCE E JR</td><!--!-->
+                        <td class="text-left">03/15/1991</td><!--!-->
+                        <td class="text-left">IN CUSTODY</td><!--!-->
+                        <td class="text-left">ULSTER</td><!--!-->
+                        <td class="text-left">WHITE</td><!--!-->
+                    </tr><!--!-->
+                    <tr><!--!-->
+                        <td class="text-left"><!--!-->
+                            <a href="">79D0192</a><!--!-->
+                        </td><!--!-->
+                        <td class="text-left">ABARE, ROBERT L</td><!--!-->
+                        <td class="text-left">12/26/1943</td><!--!-->
+                        <td class="text-left">RELEASED</td><!--!-->
+                        <td class="text-left">MIDSTATE</td><!--!-->
+                        <td class="text-left">WHITE</td><!--!-->
+                    </tr><!--!-->
+                    <tr><!--!-->
+                        <td class="text-left"><!--!-->
+                            <a href="">96B1350</a><!--!-->
+                        </td><!--!-->
+                        <td class="text-left">ABARE, ROBERT L</td><!--!-->
+                        <td class="text-left">12/26/1943</td><!--!-->
+                        <td class="text-left">DISCHARGED</td><!--!-->
+                        <td class="text-left">MOHAWK</td><!--!-->
+                        <td class="text-left">WHITE</td><!--!-->
+                    </tr><!--!-->
+                    <tr><!--!-->
+                        <td class="text-left"><!--!-->
+                            <a href="">13B3820</a><!--!-->
+                        </td><!--!-->
+                        <td class="text-left">ABARE, STEPHEN W</td><!--!-->
+                        <td class="text-left">03/21/1973</td><!--!-->
+                        <td class="text-left">RELEASED</td><!--!-->
+                        <td class="text-left">WYOMING</td><!--!-->
+                        <td class="text-left">WHITE</td><!--!-->
+                    </tr><!--!-->
+                    <tr><!--!-->
+                        <td class="text-left"><!--!-->
+                            <a href="">83D0070</a><!--!-->
+                        </td><!--!-->
+                        <td class="text-left">ABARE, THOMAS P</td><!--!-->
+                        <td class="text-left">05/10/1941</td><!--!-->
+                        <td class="text-left">RELEASED</td><!--!-->
+                        <td class="text-left"></td><!--!-->
+                        <td class="text-left">WHITE</td><!--!-->
+                    </tr><!--!-->
+                    <tr><!--!-->
+                        <td class="text-left"><!--!-->
+                            <a href="">10G0144</a><!--!-->
+                        </td><!--!-->
+                        <td class="text-left">ABARE, TINA M</td><!--!-->
+                        <td class="text-left">01/23/1973</td><!--!-->
+                        <td class="text-left">RELEASED</td><!--!-->
+                        <td class="text-left">ALBION</td><!--!-->
+                        <td class="text-left">WHITE</td><!--!-->
+                    </tr><!--!-->
+                    <tr><!--!-->
+                        <td class="text-left"><!--!-->
+                            <a href="">18A1448</a><!--!-->
+                        </td><!--!-->
+                        <td class="text-left">ABARENTOS, MIGUEL</td><!--!-->
+                        <td class="text-left">07/21/1987</td><!--!-->
+                        <td class="text-left">DISCHARGED</td><!--!-->
+                        <td class="text-left">GREEN HAVEN</td><!--!-->
+                        <td class="text-left">ASIAN</td><!--!-->
+                    </tr><!--!-->
+        </tbody><!--!-->
+    </table>
+    <table class="table table-borderless"><!--!-->
+        <!--!--><thead>
+            <tr class="text-left">
+                <th scope="col">DIN</th>
+                <th scope="col">Name</th>
+                <th scope="col">Birth Date</th>
+                <th scope="col">Status</th>
+                <th scope="col">Facility</th>
+                <th scope="col">Race/Ethnicity</th>
+            </tr>
+        </thead>
+        <tbody><!--!-->
+                    <tr><!--!-->
+                        <td class="text-left"><!--!-->
+                            <a href="">02A2659</a><!--!-->
+                        </td><!--!-->
+                        <td class="text-left">ABARRATEGUI, ROLAND</td><!--!-->
+                        <td class="text-left">05/18/1976</td><!--!-->
+                        <td class="text-left">RELEASED</td><!--!-->
+                        <td class="text-left">GREAT MEADOW</td><!--!-->
+                        <td class="text-left">WHITE</td><!--!-->
+                    </tr><!--!-->
+                    <tr><!--!-->
+                        <td class="text-left"><!--!-->
+                            <a href="">00R6594</a><!--!-->
+                        </td><!--!-->
+                        <td class="text-left">ABAS, ABAS</td><!--!-->
+                        <td class="text-left">03/09/1954</td><!--!-->
+                        <td class="text-left">RELEASED</td><!--!-->
+                        <td class="text-left">COLLINS</td><!--!-->
+                        <td class="text-left">WHITE</td><!--!-->
+                    </tr><!--!-->
+                    <tr><!--!-->
+                        <td class="text-left"><!--!-->
+                            <a href="">97A2554</a><!--!-->
+                        </td><!--!-->
+                        <td class="text-left">ABASCAL, ISIDRO</td><!--!-->
+                        <td class="text-left">05/15/1953</td><!--!-->
+                        <td class="text-left">RELEASED</td><!--!-->
+                        <td class="text-left">MIDSTATE</td><!--!-->
+                        <td class="text-left">WHITE/HISPANIC</td><!--!-->
+                    </tr><!--!-->
+                    <tr><!--!-->
+                        <td class="text-left"><!--!-->
+                            <a href="">18R2754</a><!--!-->
+                        </td><!--!-->
+                        <td class="text-left">ABASCAL PENA, DANIEL</td><!--!-->
+                        <td class="text-left">01/30/1984</td><!--!-->
+                        <td class="text-left">RELEASED</td><!--!-->
+                        <td class="text-left">LAKEVIEW</td><!--!-->
+                        <td class="text-left">WHITE/HISPANIC</td><!--!-->
+                    </tr><!--!-->
+                    <tr><!--!-->
+                        <td class="text-left"><!--!-->
+                            <a href="">74A3781</a><!--!-->
+                        </td><!--!-->
+                        <td class="text-left">ABATE, PIETRO</td><!--!-->
+                        <td class="text-left">10/26/1924</td><!--!-->
+                        <td class="text-left">DISCHARGED</td><!--!-->
+                        <td class="text-left"></td><!--!-->
+                        <td class="text-left">WHITE</td><!--!-->
+                    </tr><!--!-->
+                    <tr><!--!-->
+                        <td class="text-left"><!--!-->
+                            <a href="">78A0591</a><!--!-->
+                        </td><!--!-->
+                        <td class="text-left">ABAYROM, EDDIE</td><!--!-->
+                        <td class="text-left">09/07/1955</td><!--!-->
+                        <td class="text-left">DISCHARGED</td><!--!-->
+                        <td class="text-left"></td><!--!-->
+                        <td class="text-left">HISPANIC</td><!--!-->
+                    </tr><!--!-->
+                    <tr><!--!-->
+                        <td class="text-left"><!--!-->
+                            <a href="">94R0828</a><!--!-->
+                        </td><!--!-->
+                        <td class="text-left">ABAZI, MUHAREM</td><!--!-->
+                        <td class="text-left">04/03/1969</td><!--!-->
+                        <td class="text-left">RELEASED</td><!--!-->
+                        <td class="text-left">ADIRONDACK</td><!--!-->
+                        <td class="text-left">WHITE</td><!--!-->
+                    </tr><!--!-->
+                    <tr><!--!-->
+                        <td class="text-left"><!--!-->
+                            <a href="">18A1747</a><!--!-->
+                        </td><!--!-->
+                        <td class="text-left">ABAZI, PETRIT</td><!--!-->
+                        <td class="text-left">05/11/1994</td><!--!-->
+                        <td class="text-left">RELEASED</td><!--!-->
+                        <td class="text-left">LAKEVIEW</td><!--!-->
+                        <td class="text-left">WHITE</td><!--!-->
+                    </tr><!--!-->
+                    <tr><!--!-->
+                        <td class="text-left"><!--!-->
+                            <a href="">19A1504</a><!--!-->
+                        </td><!--!-->
+                        <td class="text-left">ABBAN, ISAAC</td><!--!-->
+                        <td class="text-left">04/02/1994</td><!--!-->
+                        <td class="text-left">RELEASED</td><!--!-->
+                        <td class="text-left">WATERTOWN</td><!--!-->
+                        <td class="text-left">BLACK</td><!--!-->
+                    </tr><!--!-->
+                    <tr><!--!-->
+                        <td class="text-left"><!--!-->
+                            <a href="">77A0464</a><!--!-->
+                        </td><!--!-->
+                        <td class="text-left">ABBANDAZZA, FRANKIE</td><!--!-->
+                        <td class="text-left">04/01/1949</td><!--!-->
+                        <td class="text-left">DISCHARGED</td><!--!-->
+                        <td class="text-left"></td><!--!-->
+                        <td class="text-left">WHITE</td><!--!-->
+                    </tr><!--!-->
+        </tbody><!--!-->
+    </table>
+    <table class="table table-borderless"><!--!-->
+        <!--!--><thead>
+            <tr class="text-left">
+                <th scope="col">DIN</th>
+                <th scope="col">Name</th>
+                <th scope="col">Birth Date</th>
+                <th scope="col">Status</th>
+                <th scope="col">Facility</th>
+                <th scope="col">Race/Ethnicity</th>
+            </tr>
+        </thead>
+        <tbody><!--!-->
+                    <tr><!--!-->
+                        <td class="text-left"><!--!-->
+                            <a href="">94R3671</a><!--!-->
+                        </td><!--!-->
+                        <td class="text-left">ABBAS, ABDUL</td><!--!-->
+                        <td class="text-left">04/06/1963</td><!--!-->
+                        <td class="text-left">RELEASED</td><!--!-->
+                        <td class="text-left">LINCOLN</td><!--!-->
+                        <td class="text-left">BLACK</td><!--!-->
+                    </tr><!--!-->
+                    <tr><!--!-->
+                        <td class="text-left"><!--!-->
+                            <a href="">18R1214</a><!--!-->
+                        </td><!--!-->
+                        <td class="text-left">ABBAS, ALI</td><!--!-->
+                        <td class="text-left">12/28/1989</td><!--!-->
+                        <td class="text-left">RELEASED</td><!--!-->
+                        <td class="text-left">FRANKLIN</td><!--!-->
+                        <td class="text-left">OTHER</td><!--!-->
+                    </tr><!--!-->
+                    <tr><!--!-->
+                        <td class="text-left"><!--!-->
+                            <a href="">13R1077</a><!--!-->
+                        </td><!--!-->
+                        <td class="text-left">ABBAS, HUSANAIN</td><!--!-->
+                        <td class="text-left">03/27/1991</td><!--!-->
+                        <td class="text-left">RELEASED</td><!--!-->
+                        <td class="text-left">MOHAWK</td><!--!-->
+                        <td class="text-left">OTHER</td><!--!-->
+                    </tr><!--!-->
+                    <tr><!--!-->
+                        <td class="text-left"><!--!-->
+                            <a href="">83B0038</a><!--!-->
+                        </td><!--!-->
+                        <td class="text-left">ABBAS, JAF'AR A</td><!--!-->
+                        <td class="text-left">10/19/1962</td><!--!-->
+                        <td class="text-left">RELEASED</td><!--!-->
+                        <td class="text-left">QUEENSBORO</td><!--!-->
+                        <td class="text-left">BLACK</td><!--!-->
+                    </tr><!--!-->
+                    <tr><!--!-->
+                        <td class="text-left"><!--!-->
+                            <a href="">96A3458</a><!--!-->
+                        </td><!--!-->
+                        <td class="text-left">ABBAS, MOHAMED</td><!--!-->
+                        <td class="text-left">02/03/1959</td><!--!-->
+                        <td class="text-left">RELEASED</td><!--!-->
+                        <td class="text-left">UPSTATE</td><!--!-->
+                        <td class="text-left">OTHER</td><!--!-->
+                    </tr><!--!-->
+                    <tr><!--!-->
+                        <td class="text-left"><!--!-->
+                            <a href="">18A3550</a><!--!-->
+                        </td><!--!-->
+                        <td class="text-left">ABBAS, SAMIE</td><!--!-->
+                        <td class="text-left">06/15/2000</td><!--!-->
+                        <td class="text-left">IN CUSTODY</td><!--!-->
+                        <td class="text-left">ELMIRA</td><!--!-->
+                        <td class="text-left">WHITE</td><!--!-->
+                    </tr><!--!-->
+                    <tr><!--!-->
+                        <td class="text-left"><!--!-->
+                            <a href="">00A5499</a><!--!-->
+                        </td><!--!-->
+                        <td class="text-left">ABBASSI, WASFI</td><!--!-->
+                        <td class="text-left">08/29/1979</td><!--!-->
+                        <td class="text-left">RELEASED</td><!--!-->
+                        <td class="text-left">BARE HILL</td><!--!-->
+                        <td class="text-left">OTHER</td><!--!-->
+                    </tr><!--!-->
+                    <tr><!--!-->
+                        <td class="text-left"><!--!-->
+                            <a href="">02A3332</a><!--!-->
+                        </td><!--!-->
+                        <td class="text-left">ABBATE, JAMES</td><!--!-->
+                        <td class="text-left">07/04/1959</td><!--!-->
+                        <td class="text-left">RELEASED</td><!--!-->
+                        <td class="text-left">QUEENSBORO</td><!--!-->
+                        <td class="text-left">WHITE</td><!--!-->
+                    </tr><!--!-->
+                    <tr><!--!-->
+                        <td class="text-left"><!--!-->
+                            <a href="">86A0864</a><!--!-->
+                        </td><!--!-->
+                        <td class="text-left">ABBATE, JAMES</td><!--!-->
+                        <td class="text-left">07/04/1959</td><!--!-->
+                        <td class="text-left">RELEASED</td><!--!-->
+                        <td class="text-left">LINCOLN</td><!--!-->
+                        <td class="text-left">WHITE</td><!--!-->
+                    </tr><!--!-->
+                    <tr><!--!-->
+                        <td class="text-left"><!--!-->
+                            <a href="">88A5077</a><!--!-->
+                        </td><!--!-->
+                        <td class="text-left">ABBATE, JAMES</td><!--!-->
+                        <td class="text-left">07/04/1959</td><!--!-->
+                        <td class="text-left">RELEASED</td><!--!-->
+                        <td class="text-left">FISHKILL</td><!--!-->
+                        <td class="text-left">WHITE</td><!--!-->
+                    </tr><!--!-->
+        </tbody><!--!-->
+    </table>
+    <table class="table table-borderless"><!--!-->
+        <!--!--><thead>
+            <tr class="text-left">
+                <th scope="col">DIN</th>
+                <th scope="col">Name</th>
+                <th scope="col">Birth Date</th>
+                <th scope="col">Status</th>
+                <th scope="col">Facility</th>
+                <th scope="col">Race/Ethnicity</th>
+            </tr>
+        </thead>
+        <tbody><!--!-->
+                    <tr><!--!-->
+                        <td class="text-left"><!--!-->
+                            <a href="">79A0462</a><!--!-->
+                        </td><!--!-->
+                        <td class="text-left">ABBATE, JOHN</td><!--!-->
+                        <td class="text-left">10/22/1940</td><!--!-->
+                        <td class="text-left">DISCHARGED</td><!--!-->
+                        <td class="text-left"></td><!--!-->
+                        <td class="text-left">WHITE</td><!--!-->
+                    </tr><!--!-->
+                    <tr><!--!-->
+                        <td class="text-left"><!--!-->
+                            <a href="">93A1647</a><!--!-->
+                        </td><!--!-->
+                        <td class="text-left">ABBATE, MICHAEL</td><!--!-->
+                        <td class="text-left">03/12/1969</td><!--!-->
+                        <td class="text-left">RELEASED</td><!--!-->
+                        <td class="text-left">CLINTON</td><!--!-->
+                        <td class="text-left">WHITE</td><!--!-->
+                    </tr><!--!-->
+                    <tr><!--!-->
+                        <td class="text-left"><!--!-->
+                            <a href="">22B5121</a><!--!-->
+                        </td><!--!-->
+                        <td class="text-left">ABBATE, RICHARD C</td><!--!-->
+                        <td class="text-left">11/10/2000</td><!--!-->
+                        <td class="text-left">IN CUSTODY</td><!--!-->
+                        <td class="text-left">ELMIRA</td><!--!-->
+                        <td class="text-left">WHITE</td><!--!-->
+                    </tr><!--!-->
+                    <tr><!--!-->
+                        <td class="text-left"><!--!-->
+                            <a href="">79A1438</a><!--!-->
+                        </td><!--!-->
+                        <td class="text-left">ABBATE, SALVATORE</td><!--!-->
+                        <td class="text-left">02/16/1956</td><!--!-->
+                        <td class="text-left">DISCHARGED</td><!--!-->
+                        <td class="text-left"></td><!--!-->
+                        <td class="text-left">WHITE</td><!--!-->
+                    </tr><!--!-->
+                    <tr><!--!-->
+                        <td class="text-left"><!--!-->
+                            <a href="">87A9669</a><!--!-->
+                        </td><!--!-->
+                        <td class="text-left">ABBATE, SALVATORE</td><!--!-->
+                        <td class="text-left">04/07/1963</td><!--!-->
+                        <td class="text-left">RELEASED</td><!--!-->
+                        <td class="text-left">QUEENSBORO</td><!--!-->
+                        <td class="text-left">WHITE</td><!--!-->
+                    </tr><!--!-->
+                    <tr><!--!-->
+                        <td class="text-left"><!--!-->
+                            <a href="">16A3001</a><!--!-->
+                        </td><!--!-->
+                        <td class="text-left">ABBATIELLO, JOSHUAH</td><!--!-->
+                        <td class="text-left">07/16/1982</td><!--!-->
+                        <td class="text-left">RELEASED</td><!--!-->
+                        <td class="text-left">WILLARD</td><!--!-->
+                        <td class="text-left">WHITE</td><!--!-->
+                    </tr><!--!-->
+                    <tr><!--!-->
+                        <td class="text-left"><!--!-->
+                            <a href="">01A2950</a><!--!-->
+                        </td><!--!-->
+                        <td class="text-left">ABBATIELLO, JOSHUAH N</td><!--!-->
+                        <td class="text-left">07/16/1982</td><!--!-->
+                        <td class="text-left">RELEASED</td><!--!-->
+                        <td class="text-left">WILLARD</td><!--!-->
+                        <td class="text-left">WHITE</td><!--!-->
+                    </tr><!--!-->
+                    <tr><!--!-->
+                        <td class="text-left"><!--!-->
+                            <a href="">19G0052</a><!--!-->
+                        </td><!--!-->
+                        <td class="text-left">ABBATTISTA, DANIELLE</td><!--!-->
+                        <td class="text-left">10/26/1980</td><!--!-->
+                        <td class="text-left">RELEASED</td><!--!-->
+                        <td class="text-left">ALBION</td><!--!-->
+                        <td class="text-left">WHITE/HISPANIC</td><!--!-->
+                    </tr><!--!-->
+                    <tr><!--!-->
+                        <td class="text-left"><!--!-->
+                            <a href="">95A7719</a><!--!-->
+                        </td><!--!-->
+                        <td class="text-left">ABBENE, JOHN</td><!--!-->
+                        <td class="text-left">02/28/1966</td><!--!-->
+                        <td class="text-left">RELEASED</td><!--!-->
+                        <td class="text-left">ARTHURKILL</td><!--!-->
+                        <td class="text-left">WHITE</td><!--!-->
+                    </tr><!--!-->
+                    <tr><!--!-->
+                        <td class="text-left"><!--!-->
+                            <a href="">87A3716</a><!--!-->
+                        </td><!--!-->
+                        <td class="text-left">ABBENE, JOHN C</td><!--!-->
+                        <td class="text-left">02/28/1966</td><!--!-->
+                        <td class="text-left">RELEASED</td><!--!-->
+                        <td class="text-left">QUEENSBORO</td><!--!-->
+                        <td class="text-left">WHITE</td><!--!-->
+                    </tr><!--!-->
+        </tbody><!--!-->
+    </table>
+    <table class="table table-borderless"><!--!-->
+        <!--!--><thead>
+            <tr class="text-left">
+                <th scope="col">DIN</th>
+                <th scope="col">Name</th>
+                <th scope="col">Birth Date</th>
+                <th scope="col">Status</th>
+                <th scope="col">Facility</th>
+                <th scope="col">Race/Ethnicity</th>
+            </tr>
+        </thead>
+        <tbody><!--!-->
+                    <tr><!--!-->
+                        <td class="text-left"><!--!-->
+                            <a href="">12G0720</a><!--!-->
+                        </td><!--!-->
+                        <td class="text-left">ABBES, KELLY M</td><!--!-->
+                        <td class="text-left">06/06/1973</td><!--!-->
+                        <td class="text-left">RELEASED</td><!--!-->
+                        <td class="text-left">WILLARD</td><!--!-->
+                        <td class="text-left">WHITE</td><!--!-->
+                    </tr><!--!-->
+                    <tr><!--!-->
+                        <td class="text-left"><!--!-->
+                            <a href="">14G0430</a><!--!-->
+                        </td><!--!-->
+                        <td class="text-left">ABBES, KELLY M</td><!--!-->
+                        <td class="text-left">06/06/1973</td><!--!-->
+                        <td class="text-left">RELEASED</td><!--!-->
+                        <td class="text-left">TACONIC</td><!--!-->
+                        <td class="text-left">WHITE</td><!--!-->
+                    </tr><!--!-->
+                    <tr><!--!-->
+                        <td class="text-left"><!--!-->
+                            <a href="">05R2568</a><!--!-->
+                        </td><!--!-->
+                        <td class="text-left">ABBES, ZEHEER</td><!--!-->
+                        <td class="text-left">06/26/1983</td><!--!-->
+                        <td class="text-left">RELEASED</td><!--!-->
+                        <td class="text-left">GOUVERNEUR</td><!--!-->
+                        <td class="text-left">ASIAN</td><!--!-->
+                    </tr><!--!-->
+                    <tr><!--!-->
+                        <td class="text-left"><!--!-->
+                            <a href="">19B2693</a><!--!-->
+                        </td><!--!-->
+                        <td class="text-left">ABBEY, DYLAN</td><!--!-->
+                        <td class="text-left">06/04/1992</td><!--!-->
+                        <td class="text-left">RELEASED</td><!--!-->
+                        <td class="text-left">HALE CREEK</td><!--!-->
+                        <td class="text-left">WHITE</td><!--!-->
+                    </tr><!--!-->
+                    <tr><!--!-->
+                        <td class="text-left"><!--!-->
+                            <a href="">15B1521</a><!--!-->
+                        </td><!--!-->
+                        <td class="text-left">ABBEY, DYLAN M</td><!--!-->
+                        <td class="text-left">06/04/1992</td><!--!-->
+                        <td class="text-left">RELEASED</td><!--!-->
+                        <td class="text-left">WILLARD</td><!--!-->
+                        <td class="text-left">WHITE</td><!--!-->
+                    </tr><!--!-->
+                    <tr><!--!-->
+                        <td class="text-left"><!--!-->
+                            <a href="">18B3424</a><!--!-->
+                        </td><!--!-->
+                        <td class="text-left">ABBINANTI, DAVID</td><!--!-->
+                        <td class="text-left">04/05/1974</td><!--!-->
+                        <td class="text-left">RELEASED</td><!--!-->
+                        <td class="text-left">COLLINS</td><!--!-->
+                        <td class="text-left">WHITE</td><!--!-->
+                    </tr><!--!-->
+                    <tr><!--!-->
+                        <td class="text-left"><!--!-->
+                            <a href="">94B1881</a><!--!-->
+                        </td><!--!-->
+                        <td class="text-left">ABBINANTI, DAVID</td><!--!-->
+                        <td class="text-left">04/05/1974</td><!--!-->
+                        <td class="text-left">DISCHARGED</td><!--!-->
+                        <td class="text-left">CAYUGA</td><!--!-->
+                        <td class="text-left">WHITE</td><!--!-->
+                    </tr><!--!-->
+                    <tr><!--!-->
+                        <td class="text-left"><!--!-->
+                            <a href="">22R2602</a><!--!-->
+                        </td><!--!-->
+                        <td class="text-left">ABBOTT, ANDERSON</td><!--!-->
+                        <td class="text-left">04/23/2002</td><!--!-->
+                        <td class="text-left">IN CUSTODY</td><!--!-->
+                        <td class="text-left">WASHINGTON</td><!--!-->
+                        <td class="text-left">BLACK</td><!--!-->
+                    </tr><!--!-->
+                    <tr><!--!-->
+                        <td class="text-left"><!--!-->
+                            <a href="">18A2223</a><!--!-->
+                        </td><!--!-->
+                        <td class="text-left">ABBOTT, ANTHONY</td><!--!-->
+                        <td class="text-left">04/10/1983</td><!--!-->
+                        <td class="text-left">IN CUSTODY</td><!--!-->
+                        <td class="text-left">SING SING</td><!--!-->
+                        <td class="text-left">WHITE</td><!--!-->
+                    </tr><!--!-->
+                    <tr><!--!-->
+                        <td class="text-left"><!--!-->
+                            <a href="">04R0568</a><!--!-->
+                        </td><!--!-->
+                        <td class="text-left">ABBOTT, ARTKEEM</td><!--!-->
+                        <td class="text-left">06/14/1985</td><!--!-->
+                        <td class="text-left">RELEASED</td><!--!-->
+                        <td class="text-left">FULTON</td><!--!-->
+                        <td class="text-left">BLACK</td><!--!-->
+                    </tr><!--!-->
+        </tbody><!--!-->
+    </table>
+    <table class="table table-borderless"><!--!-->
+        <!--!--><thead>
+            <tr class="text-left">
+                <th scope="col">DIN</th>
+                <th scope="col">Name</th>
+                <th scope="col">Birth Date</th>
+                <th scope="col">Status</th>
+                <th scope="col">Facility</th>
+                <th scope="col">Race/Ethnicity</th>
+            </tr>
+        </thead>
+        <tbody><!--!-->
+                    <tr><!--!-->
+                        <td class="text-left"><!--!-->
+                            <a href="">09R3894</a><!--!-->
+                        </td><!--!-->
+                        <td class="text-left">ABBOTT, ARTKEEM B</td><!--!-->
+                        <td class="text-left">06/14/1985</td><!--!-->
+                        <td class="text-left">DISCHARGED</td><!--!-->
+                        <td class="text-left">CHATY ASACTC</td><!--!-->
+                        <td class="text-left">BLACK</td><!--!-->
+                    </tr><!--!-->
+                    <tr><!--!-->
+                        <td class="text-left"><!--!-->
+                            <a href="">02R5276</a><!--!-->
+                        </td><!--!-->
+                        <td class="text-left">ABBOTT, ASHAWN</td><!--!-->
+                        <td class="text-left">11/22/1975</td><!--!-->
+                        <td class="text-left">RELEASED</td><!--!-->
+                        <td class="text-left">LAKEVIEW</td><!--!-->
+                        <td class="text-left">BLACK</td><!--!-->
+                    </tr><!--!-->
+                    <tr><!--!-->
+                        <td class="text-left"><!--!-->
+                            <a href="">07A2902</a><!--!-->
+                        </td><!--!-->
+                        <td class="text-left">ABBOTT, ASHAWN</td><!--!-->
+                        <td class="text-left">11/22/1975</td><!--!-->
+                        <td class="text-left">RELEASED</td><!--!-->
+                        <td class="text-left">WALLKILL</td><!--!-->
+                        <td class="text-left">BLACK</td><!--!-->
+                    </tr><!--!-->
+                    <tr><!--!-->
+                        <td class="text-left"><!--!-->
+                            <a href="">16R0126</a><!--!-->
+                        </td><!--!-->
+                        <td class="text-left">ABBOTT, ASHAWN</td><!--!-->
+                        <td class="text-left">11/22/1975</td><!--!-->
+                        <td class="text-left">RELEASED</td><!--!-->
+                        <td class="text-left">DOWNSTATE</td><!--!-->
+                        <td class="text-left">BLACK</td><!--!-->
+                    </tr><!--!-->
+                    <tr><!--!-->
+                        <td class="text-left"><!--!-->
+                            <a href="">20A1558</a><!--!-->
+                        </td><!--!-->
+                        <td class="text-left">ABBOTT, ASHAWN</td><!--!-->
+                        <td class="text-left">11/22/1975</td><!--!-->
+                        <td class="text-left">IN CUSTODY</td><!--!-->
+                        <td class="text-left">ULSTER</td><!--!-->
+                        <td class="text-left">BLACK</td><!--!-->
+                    </tr><!--!-->
+                    <tr><!--!-->
+                        <td class="text-left"><!--!-->
+                            <a href="">22B3110</a><!--!-->
+                        </td><!--!-->
+                        <td class="text-left">ABBOTT, BRANDON</td><!--!-->
+                        <td class="text-left">08/06/1982</td><!--!-->
+                        <td class="text-left">IN CUSTODY</td><!--!-->
+                        <td class="text-left">GROVELAND</td><!--!-->
+                        <td class="text-left">WHITE</td><!--!-->
+                    </tr><!--!-->
+                    <tr><!--!-->
+                        <td class="text-left"><!--!-->
+                            <a href="">02B2190</a><!--!-->
+                        </td><!--!-->
+                        <td class="text-left">ABBOTT, EDWARD H</td><!--!-->
+                        <td class="text-left">08/14/1981</td><!--!-->
+                        <td class="text-left">RELEASED</td><!--!-->
+                        <td class="text-left">ROCHESTER</td><!--!-->
+                        <td class="text-left">WHITE</td><!--!-->
+                    </tr><!--!-->
+                    <tr><!--!-->
+                        <td class="text-left"><!--!-->
+                            <a href="">06B1514</a><!--!-->
+                        </td><!--!-->
+                        <td class="text-left">ABBOTT, EDWARD H</td><!--!-->
+                        <td class="text-left">08/14/1981</td><!--!-->
+                        <td class="text-left">RELEASED</td><!--!-->
+                        <td class="text-left">CHATY ASACTC</td><!--!-->
+                        <td class="text-left">WHITE</td><!--!-->
+                    </tr><!--!-->
+                    <tr><!--!-->
+                        <td class="text-left"><!--!-->
+                            <a href="">75B0326</a><!--!-->
+                        </td><!--!-->
+                        <td class="text-left">ABBOTT, FREDERICK L</td><!--!-->
+                        <td class="text-left">05/17/1955</td><!--!-->
+                        <td class="text-left">DISCHARGED</td><!--!-->
+                        <td class="text-left"></td><!--!-->
+                        <td class="text-left">BLACK</td><!--!-->
+                    </tr><!--!-->
+                    <tr><!--!-->
+                        <td class="text-left"><!--!-->
+                            <a href="">79D0055</a><!--!-->
+                        </td><!--!-->
+                        <td class="text-left">ABBOTT, FREDERICK L</td><!--!-->
+                        <td class="text-left">05/17/1955</td><!--!-->
+                        <td class="text-left">DISCHARGED</td><!--!-->
+                        <td class="text-left"></td><!--!-->
+                        <td class="text-left">BLACK</td><!--!-->
+                    </tr><!--!-->
+        </tbody><!--!-->
+    </table>
+    <table class="table table-borderless"><!--!-->
+        <!--!--><thead>
+            <tr class="text-left">
+                <th scope="col">DIN</th>
+                <th scope="col">Name</th>
+                <th scope="col">Birth Date</th>
+                <th scope="col">Status</th>
+                <th scope="col">Facility</th>
+                <th scope="col">Race/Ethnicity</th>
+            </tr>
+        </thead>
+        <tbody><!--!-->
+                    <tr><!--!-->
+                        <td class="text-left"><!--!-->
+                            <a href="">02R3418</a><!--!-->
+                        </td><!--!-->
+                        <td class="text-left">ABBOTT, IRVING</td><!--!-->
+                        <td class="text-left">03/15/1983</td><!--!-->
+                        <td class="text-left">RELEASED</td><!--!-->
+                        <td class="text-left">ONEIDA</td><!--!-->
+                        <td class="text-left">BLACK</td><!--!-->
+                    </tr><!--!-->
+                    <tr><!--!-->
+                        <td class="text-left"><!--!-->
+                            <a href="">86A6005</a><!--!-->
+                        </td><!--!-->
+                        <td class="text-left">ABBOTT, JACK H</td><!--!-->
+                        <td class="text-left">01/21/1944</td><!--!-->
+                        <td class="text-left">DISCHARGED</td><!--!-->
+                        <td class="text-left">WENDE</td><!--!-->
+                        <td class="text-left">WHITE</td><!--!-->
+                    </tr><!--!-->
+                    <tr><!--!-->
+                        <td class="text-left"><!--!-->
+                            <a href="">88C0413</a><!--!-->
+                        </td><!--!-->
+                        <td class="text-left">ABBOTT, JAMES R</td><!--!-->
+                        <td class="text-left">09/22/1950</td><!--!-->
+                        <td class="text-left">RELEASED</td><!--!-->
+                        <td class="text-left">GREENE</td><!--!-->
+                        <td class="text-left">WHITE</td><!--!-->
+                    </tr><!--!-->
+                    <tr><!--!-->
+                        <td class="text-left"><!--!-->
+                            <a href="">15B2304</a><!--!-->
+                        </td><!--!-->
+                        <td class="text-left">ABBOTT, JONATHAN</td><!--!-->
+                        <td class="text-left">07/13/1983</td><!--!-->
+                        <td class="text-left">RELEASED</td><!--!-->
+                        <td class="text-left">COLLINS</td><!--!-->
+                        <td class="text-left">WHITE</td><!--!-->
+                    </tr><!--!-->
+                    <tr><!--!-->
+                        <td class="text-left"><!--!-->
+                            <a href="">17B1695</a><!--!-->
+                        </td><!--!-->
+                        <td class="text-left">ABBOTT, JUSTIN R</td><!--!-->
+                        <td class="text-left">08/11/1992</td><!--!-->
+                        <td class="text-left">RELEASED</td><!--!-->
+                        <td class="text-left">GREENE</td><!--!-->
+                        <td class="text-left">WHITE</td><!--!-->
+                    </tr><!--!-->
+                    <tr><!--!-->
+                        <td class="text-left"><!--!-->
+                            <a href="">07B0786</a><!--!-->
+                        </td><!--!-->
+                        <td class="text-left">ABBOTT, KEVIN</td><!--!-->
+                        <td class="text-left">03/31/1983</td><!--!-->
+                        <td class="text-left">RELEASED</td><!--!-->
+                        <td class="text-left">ONEIDA</td><!--!-->
+                        <td class="text-left">WHITE</td><!--!-->
+                    </tr><!--!-->
+                    <tr><!--!-->
+                        <td class="text-left"><!--!-->
+                            <a href="">14B3881</a><!--!-->
+                        </td><!--!-->
+                        <td class="text-left">ABBOTT, LAWRENCE J</td><!--!-->
+                        <td class="text-left">03/29/1943</td><!--!-->
+                        <td class="text-left">RELEASED</td><!--!-->
+                        <td class="text-left">GROVELAND</td><!--!-->
+                        <td class="text-left">WHITE</td><!--!-->
+                    </tr><!--!-->
+                    <tr><!--!-->
+                        <td class="text-left"><!--!-->
+                            <a href="">71A0522</a><!--!-->
+                        </td><!--!-->
+                        <td class="text-left">ABBOTT, LEON</td><!--!-->
+                        <td class="text-left">10/26/1940</td><!--!-->
+                        <td class="text-left">DISCHARGED</td><!--!-->
+                        <td class="text-left"></td><!--!-->
+                        <td class="text-left">BLACK</td><!--!-->
+                    </tr><!--!-->
+                    <tr><!--!-->
+                        <td class="text-left"><!--!-->
+                            <a href="">96R6481</a><!--!-->
+                        </td><!--!-->
+                        <td class="text-left">ABBOTT, LEON</td><!--!-->
+                        <td class="text-left">10/26/1940</td><!--!-->
+                        <td class="text-left">RELEASED</td><!--!-->
+                        <td class="text-left">MT. MCGREGOR</td><!--!-->
+                        <td class="text-left">BLACK</td><!--!-->
+                    </tr><!--!-->
+                    <tr><!--!-->
+                        <td class="text-left"><!--!-->
+                            <a href="">14B2961</a><!--!-->
+                        </td><!--!-->
+                        <td class="text-left">ABBOTT, MARK D</td><!--!-->
+                        <td class="text-left">12/14/1956</td><!--!-->
+                        <td class="text-left">RELEASED</td><!--!-->
+                        <td class="text-left">GOWANDA</td><!--!-->
+                        <td class="text-left">WHITE</td><!--!-->
+                    </tr><!--!-->
+        </tbody><!--!-->
+    </table>
+    <table class="table table-borderless"><!--!-->
+        <!--!--><thead>
+            <tr class="text-left">
+                <th scope="col">DIN</th>
+                <th scope="col">Name</th>
+                <th scope="col">Birth Date</th>
+                <th scope="col">Status</th>
+                <th scope="col">Facility</th>
+                <th scope="col">Race/Ethnicity</th>
+            </tr>
+        </thead>
+        <tbody><!--!-->
+                    <tr><!--!-->
+                        <td class="text-left"><!--!-->
+                            <a href="">80C0579</a><!--!-->
+                        </td><!--!-->
+                        <td class="text-left">ABBOTT, MARK D</td><!--!-->
+                        <td class="text-left">12/04/1956</td><!--!-->
+                        <td class="text-left">DISCHARGED</td><!--!-->
+                        <td class="text-left"></td><!--!-->
+                        <td class="text-left">WHITE</td><!--!-->
+                    </tr><!--!-->
+                    <tr><!--!-->
+                        <td class="text-left"><!--!-->
+                            <a href="">09R0441</a><!--!-->
+                        </td><!--!-->
+                        <td class="text-left">ABBOTT, MARSHALL</td><!--!-->
+                        <td class="text-left">11/20/1964</td><!--!-->
+                        <td class="text-left">RELEASED</td><!--!-->
+                        <td class="text-left">GOUVERNEUR</td><!--!-->
+                        <td class="text-left">BLACK</td><!--!-->
+                    </tr><!--!-->
+                    <tr><!--!-->
+                        <td class="text-left"><!--!-->
+                            <a href="">17A0183</a><!--!-->
+                        </td><!--!-->
+                        <td class="text-left">ABBOTT, MARSHALL</td><!--!-->
+                        <td class="text-left">11/20/1964</td><!--!-->
+                        <td class="text-left">RELEASED</td><!--!-->
+                        <td class="text-left">WILLARD</td><!--!-->
+                        <td class="text-left">BLACK</td><!--!-->
+                    </tr><!--!-->
+                    <tr><!--!-->
+                        <td class="text-left"><!--!-->
+                            <a href="">72A0727</a><!--!-->
+                        </td><!--!-->
+                        <td class="text-left">ABBOTT, NELSON</td><!--!-->
+                        <td class="text-left">10/26/1939</td><!--!-->
+                        <td class="text-left">DISCHARGED</td><!--!-->
+                        <td class="text-left"></td><!--!-->
+                        <td class="text-left">BLACK</td><!--!-->
+                    </tr><!--!-->
+                    <tr><!--!-->
+                        <td class="text-left"><!--!-->
+                            <a href="">81A1814</a><!--!-->
+                        </td><!--!-->
+                        <td class="text-left">ABBOTT, NELSON</td><!--!-->
+                        <td class="text-left">10/26/1939</td><!--!-->
+                        <td class="text-left">DISCHARGED</td><!--!-->
+                        <td class="text-left">WYOMING</td><!--!-->
+                        <td class="text-left">BLACK</td><!--!-->
+                    </tr><!--!-->
+                    <tr><!--!-->
+                        <td class="text-left"><!--!-->
+                            <a href="">03B3022</a><!--!-->
+                        </td><!--!-->
+                        <td class="text-left">ABBOTT, PETER J</td><!--!-->
+                        <td class="text-left">08/17/1977</td><!--!-->
+                        <td class="text-left">DISCHARGED</td><!--!-->
+                        <td class="text-left">COLLINS</td><!--!-->
+                        <td class="text-left">WHITE</td><!--!-->
+                    </tr><!--!-->
+                    <tr><!--!-->
+                        <td class="text-left"><!--!-->
+                            <a href="">16B2267</a><!--!-->
+                        </td><!--!-->
+                        <td class="text-left">ABBOTT, PETER J</td><!--!-->
+                        <td class="text-left">08/17/1977</td><!--!-->
+                        <td class="text-left">DISCHARGED</td><!--!-->
+                        <td class="text-left">ELMIRA</td><!--!-->
+                        <td class="text-left">WHITE</td><!--!-->
+                    </tr><!--!-->
+                    <tr><!--!-->
+                        <td class="text-left"><!--!-->
+                            <a href="">85A7522</a><!--!-->
+                        </td><!--!-->
+                        <td class="text-left">ABBOTT, PHILLIP</td><!--!-->
+                        <td class="text-left">01/01/1949</td><!--!-->
+                        <td class="text-left">RELEASED</td><!--!-->
+                        <td class="text-left">WOODBOURNE</td><!--!-->
+                        <td class="text-left">WHITE</td><!--!-->
+                    </tr><!--!-->
+                    <tr><!--!-->
+                        <td class="text-left"><!--!-->
+                            <a href="">94A7953</a><!--!-->
+                        </td><!--!-->
+                        <td class="text-left">ABBOTT, RAYMOND</td><!--!-->
+                        <td class="text-left">10/26/1968</td><!--!-->
+                        <td class="text-left">RELEASED</td><!--!-->
+                        <td class="text-left">QUEENSBORO</td><!--!-->
+                        <td class="text-left">WHITE</td><!--!-->
+                    </tr><!--!-->
+                    <tr><!--!-->
+                        <td class="text-left"><!--!-->
+                            <a href="">22B1112</a><!--!-->
+                        </td><!--!-->
+                        <td class="text-left">ABBOTT, RICHARD F</td><!--!-->
+                        <td class="text-left">07/30/1972</td><!--!-->
+                        <td class="text-left">IN CUSTODY</td><!--!-->
+                        <td class="text-left">WOODBOURNE</td><!--!-->
+                        <td class="text-left">WHITE</td><!--!-->
+                    </tr><!--!-->
+        </tbody><!--!-->
+    </table>
+    <table class="table table-borderless"><!--!-->
+        <!--!--><thead>
+            <tr class="text-left">
+                <th scope="col">DIN</th>
+                <th scope="col">Name</th>
+                <th scope="col">Birth Date</th>
+                <th scope="col">Status</th>
+                <th scope="col">Facility</th>
+                <th scope="col">Race/Ethnicity</th>
+            </tr>
+        </thead>
+        <tbody><!--!-->
+                    <tr><!--!-->
+                        <td class="text-left"><!--!-->
+                            <a href="">99G0601</a><!--!-->
+                        </td><!--!-->
+                        <td class="text-left">ABBOTT, ROSALYN</td><!--!-->
+                        <td class="text-left">08/30/1960</td><!--!-->
+                        <td class="text-left">RELEASED</td><!--!-->
+                        <td class="text-left">ALBION</td><!--!-->
+                        <td class="text-left">WHITE</td><!--!-->
+                    </tr><!--!-->
+                    <tr><!--!-->
+                        <td class="text-left"><!--!-->
+                            <a href="">10G0894</a><!--!-->
+                        </td><!--!-->
+                        <td class="text-left">ABBOTT, ROSELYNN</td><!--!-->
+                        <td class="text-left">08/30/1960</td><!--!-->
+                        <td class="text-left">RELEASED</td><!--!-->
+                        <td class="text-left">ALBION</td><!--!-->
+                        <td class="text-left">WHITE</td><!--!-->
+                    </tr><!--!-->
+                    <tr><!--!-->
+                        <td class="text-left"><!--!-->
+                            <a href="">06R2530</a><!--!-->
+                        </td><!--!-->
+                        <td class="text-left">ABBOTT, SHIDON</td><!--!-->
+                        <td class="text-left">07/11/1983</td><!--!-->
+                        <td class="text-left">RELEASED</td><!--!-->
+                        <td class="text-left">SHAWANGUNK</td><!--!-->
+                        <td class="text-left">BLACK</td><!--!-->
+                    </tr><!--!-->
+                    <tr><!--!-->
+                        <td class="text-left"><!--!-->
+                            <a href="">07R3235</a><!--!-->
+                        </td><!--!-->
+                        <td class="text-left">ABBOTT, SHIDON</td><!--!-->
+                        <td class="text-left">07/11/1983</td><!--!-->
+                        <td class="text-left">RELEASED</td><!--!-->
+                        <td class="text-left">SING SING</td><!--!-->
+                        <td class="text-left">BLACK</td><!--!-->
+                    </tr><!--!-->
+                    <tr><!--!-->
+                        <td class="text-left"><!--!-->
+                            <a href="">15B2375</a><!--!-->
+                        </td><!--!-->
+                        <td class="text-left">ABBOTT, ZANE T</td><!--!-->
+                        <td class="text-left">02/15/1986</td><!--!-->
+                        <td class="text-left">DISCHARGED</td><!--!-->
+                        <td class="text-left">GOWANDA</td><!--!-->
+                        <td class="text-left">BLACK</td><!--!-->
+                    </tr><!--!-->
+                    <tr><!--!-->
+                        <td class="text-left"><!--!-->
+                            <a href="">22R0380</a><!--!-->
+                        </td><!--!-->
+                        <td class="text-left">ABBOTTSMALLS, CHRISTOPHER</td><!--!-->
+                        <td class="text-left">07/06/1988</td><!--!-->
+                        <td class="text-left">RELEASED</td><!--!-->
+                        <td class="text-left">LAKEVIEW</td><!--!-->
+                        <td class="text-left">BLACK</td><!--!-->
+                    </tr><!--!-->
+                    <tr><!--!-->
+                        <td class="text-left"><!--!-->
+                            <a href="">83B0460</a><!--!-->
+                        </td><!--!-->
+                        <td class="text-left">ABBY, DARRELL</td><!--!-->
+                        <td class="text-left">04/26/1965</td><!--!-->
+                        <td class="text-left">DISCHARGED</td><!--!-->
+                        <td class="text-left"></td><!--!-->
+                        <td class="text-left">BLACK</td><!--!-->
+                    </tr><!--!-->
+                    <tr><!--!-->
+                        <td class="text-left"><!--!-->
+                            <a href="">88A3492</a><!--!-->
+                        </td><!--!-->
+                        <td class="text-left">ABBY, DARRELL D</td><!--!-->
+                        <td class="text-left">04/26/1965</td><!--!-->
+                        <td class="text-left">DISCHARGED</td><!--!-->
+                        <td class="text-left">FRANKLIN</td><!--!-->
+                        <td class="text-left">BLACK</td><!--!-->
+                    </tr><!--!-->
+                    <tr><!--!-->
+                        <td class="text-left"><!--!-->
+                            <a href="">96R2571</a><!--!-->
+                        </td><!--!-->
+                        <td class="text-left">ABDALIZAHMAN, ALI</td><!--!-->
+                        <td class="text-left">03/20/1958</td><!--!-->
+                        <td class="text-left">RELEASED</td><!--!-->
+                        <td class="text-left">ELMIRA</td><!--!-->
+                        <td class="text-left">BLACK</td><!--!-->
+                    </tr><!--!-->
+                    <tr><!--!-->
+                        <td class="text-left"><!--!-->
+                            <a href="">21R0612</a><!--!-->
+                        </td><!--!-->
+                        <td class="text-left">ABDALLA, AMGAD</td><!--!-->
+                        <td class="text-left">01/01/1992</td><!--!-->
+                        <td class="text-left">IN CUSTODY</td><!--!-->
+                        <td class="text-left">MARCY</td><!--!-->
+                        <td class="text-left">BLACK</td><!--!-->
+                    </tr><!--!--><!--!-->
+                        <tr><!--!-->
+                            <td class="text-left"><!--!-->
+                                <a href="">17A0538</a><!--!-->
+                            </td><!--!-->
+                            <td class="text-left">ABDALLA, AMIR</td><!--!-->
+                            <td class="text-left">08/08/1997</td><!--!-->
+                            <td class="text-left">RELEASED</td><!--!-->
+                            <td class="text-left">WYOMING</td><!--!-->
+                            <td class="text-left">BLACK</td><!--!-->
+                        </tr><!--!-->
+                        <tr><!--!-->
+                            <td class="text-left"><!--!-->
+                                <a href="">92R1704</a><!--!-->
+                            </td><!--!-->
+                            <td class="text-left">ABDALLA, ANTON</td><!--!-->
+                            <td class="text-left">05/04/1970</td><!--!-->
+                            <td class="text-left">RELEASED</td><!--!-->
+                            <td class="text-left">FULTON</td><!--!-->
+                            <td class="text-left">BLACK</td><!--!-->
+                        </tr><!--!-->
+                        <tr><!--!-->
+                            <td class="text-left"><!--!-->
+                                <a href="">17B2384</a><!--!-->
+                            </td><!--!-->
+                            <td class="text-left">ABDALLA, IBRAHIM</td><!--!-->
+                            <td class="text-left">01/01/1991</td><!--!-->
+                            <td class="text-left">RELEASED</td><!--!-->
+                            <td class="text-left">GROVELAND</td><!--!-->
+                            <td class="text-left">BLACK</td><!--!-->
+                        </tr><!--!-->
+                        <tr><!--!-->
+                            <td class="text-left"><!--!-->
+                                <a href="">21B1911</a><!--!-->
+                            </td><!--!-->
+                            <td class="text-left">ABDALLA, NASIB</td><!--!-->
+                            <td class="text-left">01/01/1995</td><!--!-->
+                            <td class="text-left">IN CUSTODY</td><!--!-->
+                            <td class="text-left">MOHAWK</td><!--!-->
+                            <td class="text-left">BLACK</td><!--!-->
+                        </tr><!--!-->
+                        <tr><!--!-->
+                            <td class="text-left"><!--!-->
+                                <a href="">20B0173</a><!--!-->
+                            </td><!--!-->
+                            <td class="text-left">ABDALLA, NASIB H</td><!--!-->
+                            <td class="text-left">01/01/1995</td><!--!-->
+                            <td class="text-left">RELEASED</td><!--!-->
+                            <td class="text-left">LAKEVIEW</td><!--!-->
+                            <td class="text-left">BLACK</td><!--!-->
+                        </tr><!--!-->
+                        <tr><!--!-->
+                            <td class="text-left"><!--!-->
+                                <a href="">15A2112</a><!--!-->
+                            </td><!--!-->
+                            <td class="text-left">ABDALLA, PATRICK</td><!--!-->
+                            <td class="text-left">10/19/1988</td><!--!-->
+                            <td class="text-left">RELEASED</td><!--!-->
+                            <td class="text-left">EASTERN</td><!--!-->
+                            <td class="text-left">BLACK</td><!--!-->
+                        </tr><!--!-->
+                        <tr><!--!-->
+                            <td class="text-left"><!--!-->
+                                <a href="">16R3064</a><!--!-->
+                            </td><!--!-->
+                            <td class="text-left">ABDALLAH, AHMAD</td><!--!-->
+                            <td class="text-left">01/17/1990</td><!--!-->
+                            <td class="text-left">RELEASED</td><!--!-->
+                            <td class="text-left">MORIAH</td><!--!-->
+                            <td class="text-left">OTHER</td><!--!-->
+                        </tr><!--!-->
+                        <tr><!--!-->
+                            <td class="text-left"><!--!-->
+                                <a href="">81A2065</a><!--!-->
+                            </td><!--!-->
+                            <td class="text-left">ABDALLAH, AMIN</td><!--!-->
+                            <td class="text-left">09/07/1947</td><!--!-->
+                            <td class="text-left">RELEASED</td><!--!-->
+                            <td class="text-left">CLINTON</td><!--!-->
+                            <td class="text-left">BLACK</td><!--!-->
+                        </tr><!--!-->
+                        <tr><!--!-->
+                            <td class="text-left"><!--!-->
+                                <a href="">19B2906</a><!--!-->
+                            </td><!--!-->
+                            <td class="text-left">ABDALLAH, BRENT</td><!--!-->
+                            <td class="text-left">08/02/1995</td><!--!-->
+                            <td class="text-left">DISCHARGED</td><!--!-->
+                            <td class="text-left">CAYUGA</td><!--!-->
+                            <td class="text-left">WHITE</td><!--!-->
+                        </tr><!--!-->
+                        <tr><!--!-->
+                            <td class="text-left"><!--!-->
+                                <a href="">14B1944</a><!--!-->
+                            </td><!--!-->
+                            <td class="text-left">ABDALLAH, BRENT A</td><!--!-->
+                            <td class="text-left">08/02/1995</td><!--!-->
+                            <td class="text-left">DISCHARGED</td><!--!-->
+                            <td class="text-left">COLLINS</td><!--!-->
+                            <td class="text-left">WHITE</td><!--!-->
+                        </tr><!--!-->
+        </tbody><!--!-->
+    </table>
