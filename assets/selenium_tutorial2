@@ -1,0 +1,16 @@
+from selenium import webdriver
+from selenium.webdriver.common.keys import Keys
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.common.by import By
+from selenium.webdriver.support import expected_conditions as EC
+d = webdriver.Chrome('/path/to/chromedriver')
+books = ['9780062457738']
+for book in books:
+  d.get('https://www.bol.com/nl/')
+#   e = d.find_element(By.ID, 'searchfor')
+#   e.send_keys(book)
+#   e.send_keys(Keys.ENTER)
+  WebDriverWait(d, 20).until(EC.element_to_be_clickable((By.XPATH, "//*[@id='js-first-screen-accept-all-button']"))).click()
+  WebDriverWait(d, 20).until(EC.element_to_be_clickable((By.XPATH, "//*[@id='searchfor']"))).send_keys("9780062457738")
+  d.find_element(By.XPATH,"//*[@id='siteSearch']/wsp-search-box-register/wsp-search-input/button").click()
+  print(WebDriverWait(d, 20).until(EC.visibility_of_element_located((By.XPATH, "//a[contains(@class, 'product-title')]"))).get_attribute("innerHTML"))

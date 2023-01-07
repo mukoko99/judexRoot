@@ -1,0 +1,77 @@
+import pandas as pd
+import openpyxl
+from selenium import webdriver
+from selenium.webdriver.support import expected_conditions as ec
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.common.by import By
+from selenium.common.exceptions import TimeoutException
+
+
+driver = webdriver.Chrome('/Users/macbook/Desktop/Stack/chromedriver')
+mainframeUrl = '/Users/macbook/Desktop/Django/DjangoUnchained/judexRoot/assets/webscraper.html'
+mainframeParent = pd.read_html(mainframeUrl)
+mainframe = mainframeParent[0]
+# mainframe[['Last_Name', 'First_Name']] = mainframe.Name.str.split(', ', expand=True)
+# print(mainframe)
+letters = ['A']
+# n = 0
+# driver.get('https://nysdoccslookup.doccs.ny.gov')
+# WebDriverWait(driver, 20).until(ec.element_to_be_clickable((By.XPATH, '//*[@id="lst"]'))).send_keys('A')
+# WebDriverWait(driver, 10).until(ec.element_to_be_clickable((By.XPATH, '/html/body/app/div[1]/div/div[3]/div[3]/form/div[2]/div[2]/div/button[1]'))).click()    
+# while (n < 6) and (n % 2 == 0):
+#     data1 = WebDriverWait(driver, 20).until(ec.element_to_be_clickable((By.XPATH, '/html/body/app/div[1]/div/div[3]/div[5]/table'))).get_attribute('outerHTML')
+#     data = pd.read_html(data1)
+#     print(data, data1)
+#     # mainframe = mainframe.append(data)
+#     WebDriverWait(driver, 20).until(ec.element_to_be_clickable((By.XPATH, '/html/body/app/div[1]/div/div[3]/div[5]/p/a'))).click()
+#     n += 1
+# print(mainframe)
+for letter in letters:
+    driver.get('https://nysdoccslookup.doccs.ny.gov')
+    WebDriverWait(driver, 20).until(ec.element_to_be_clickable((By.XPATH, '//*[@id="lst"]'))).send_keys(str(letter))
+    driver.find_element(By.XPATH, '/html/body/app/div[1]/div/div[3]/div[3]/form/div[2]/div[2]/div/button[1]').click()
+    # data = WebDriverWait(driver, 20).until(ec.element_to_be_clickable((By.XPATH, '/html/body/app/div[1]/div/div[3]/div[5]/table'))).get_attribute('outerHTML')
+    # data = pd.read_html(data)
+    # mainframe = mainframe.append(data)
+    # with pd.ExcelWriter('mainframe.xlsx', mode = 'w') as writer:
+    #     mainframe.to_excel(writer, sheet_name='Convictions')
+    # driver.find_element(By.XPATH, '/html/body/app/div[1]/div/div[3]/div[5]/p/a').click()
+    # print(mainframe)
+    # row = 10
+    # -- V1 --
+    flag = True
+    n = 0
+    while flag:
+        try:
+            data1 = WebDriverWait(driver, 20).until(ec.element_to_be_clickable((By.XPATH, '/html/body/app/div[1]/div/div[3]/div[5]/table'))).get_attribute('outerHTML')
+            data = pd.read_html(data1)
+            mainframe = mainframe.append(data[0])
+            WebDriverWait(driver, 20).until(ec.element_to_be_clickable((By.XPATH, '/html/body/app/div[1]/div/div[3]/div[5]/p/a'))).click()
+            if data[0].Name[0][0:2] == 'ZY':
+                n += 1
+            if (data[0].Name[0][:2] == 'ZY') and (n == 1):
+                flag = False
+        except TimeoutException:
+            flag = False
+    # -- V2 --
+#     while flag:
+#         if pd.read_html(WebDriverWait(driver, 20).until(ec.element_to_be_clickable((By.XPATH, '/html/body/app/div[1]/div/div[3]/div[5]/table'))).get_attribute('outerHTML')
+# )[0].Name[0][:1] == 'B':
+#             print('Me')
+#             flag = False
+    # n = 0
+    # while (n < 5):
+    #     # 
+    #     # driver.find_element(By.XPATH, '/html/body/app/div[1]/div/div[3]/div[5]/p/a').click()
+    #     data1 = WebDriverWait(driver, 20).until(ec.element_to_be_clickable((By.XPATH, '/html/body/app/div[1]/div/div[3]/div[5]/table'))).get_attribute('outerHTML')
+    #     data = pd.read_html(data1)
+    #     mainframe = mainframe.append(data)
+    #     WebDriverWait(driver, 20).until(ec.element_to_be_clickable((By.XPATH, '/html/body/app/div[1]/div/div[3]/div[5]/p/a'))).click()
+    #     # with pd.ExcelWriter('mainframe.xlsx', mode='a', if_sheet_exists='overlay') as writer:
+    #     #     mainframe.to_excel(writer, sheet_name='Convictions', index=False, startrow= row)
+    #     # row = row + 10
+    #     n += 1 
+    mainframe = mainframe.drop_duplicates(keep='first')
+#     # print(mainframe)
+with pd.ExcelWriter('mainframe.xlsx', mode='w') as writer:
+    mainframe.to_excel(writer, sheet_name='Convictions', index=False)
